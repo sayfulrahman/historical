@@ -9,6 +9,15 @@
 
 get_header();
 ?>
+<?php
+$post_id = get_the_ID(); // Get current post ID
+$content_1st = get_post_meta( $post_id, 'home_page_content_1st', true );
+$content_2nd = get_post_meta( $post_id, 'home_page_content_2nd', true );
+$content_3rd = get_post_meta( $post_id, 'home_page_content_3rd', true );
+$content_4th = get_post_meta( $post_id, 'home_page_content_4th', true );
+$content_5th = get_post_meta( $post_id, 'home_page_content_5th', true );
+$content_6th = get_post_meta( $post_id, 'home_page_content_6th', true );
+?>
 <style type="text/css">
 .auto-style3 {
     vertical-align: middle;
@@ -58,57 +67,20 @@ get_header();
     <h3 align="center">
         <font face="Verdana"><a href="http://members.home.nl/mjbtje/index.html" target="_blank">Feature</a></font>
     </h3>
-    <p align="center">
-        <font face="Verdana"><a href="http://members.home.nl/mjbtje/index.html" target="_blank">
-                <span class="auto-style4">&quot;A
-                    Dutch Liberation Down South&quot;</span></a><span class="auto-style4"> written by
-            </span> <span lang="EN-US" style="mso-ansi-language: EN-US">
-                <span class="auto-style4">Hans
-                    Heltzel<o:p>
-                    </o:p>
-                    The story of the civilians, soldiers of the 2<sup>nd</sup> Armored Division, 30<sup>th</sup>
-                    Infantry Division, 113<sup>th</sup> Cavalry Group, XIX Corps, 275.
-                    Infanteriedivision, 49. Infanteriedivision, a unit of 10. SS-Panzerdivision, and
-                    many more.
-                </span>
-            </span></font>
-    </p>
+    <?php if ( ! empty( $content_1st ) ) { ?>
+    <div align="center" class="auto-style4" style="font-family: verdana;">
+        <?php echo $content_1st; ?>
+    </div>
     <hr>
+    <?php }; ?>
     <h3 align="center"><a href="http://www.motherofnormandy.com/" target="_blank">
             <font face="Verdana">Feature</font>
         </a></h3>
-    <p class="MsoNormal">
-        <font face="Verdana"><span style="FONT-SIZE: 12pt">
-                <font size="3">A new
-                    documentary film titled <a href="http://www.motherofnormandy.com/" target="_blank">“Mother
-                        of Normandy”</a>
-                    <font color="black"><span style="COLOR: black">which is </span></font>about
-                    the war time mayor of Sainte Mere Eglise France, Alexandre Renaud and his wife
-                    Madame Simone Renaud.
-                </font>
-            </span>
-            <font color="navy" size="2"><span style="font-size: 10pt; color: navy">&nbsp;</span></font>
-        </font>
-    </p>
-    <p class="MsoNormal"><span style="FONT-SIZE: 12pt">
-            <font size="3" face="Verdana">This
-                is the story of one remarkable woman, whose devotion to a generation of heroes
-                transcended all boundaries.&nbsp;</font>
-        </span></p>
-    <p class="MsoNormal">
-        <font face="Verdana"><span style="FONT-SIZE: 12pt">
-                <font size="3">Madame
-                    Simone Renaud witnessed the liberation of </font>
-            </span>
-            <font size="3"><span style="FONT-SIZE: 12pt">France
-                    on June 6, 1944 from a very unique vantage point- the small town of Sainte Mere
-                    Eglise- the first town liberated in the D- Day invasion and the drop point for
-                    the 101<sup>st</sup> &nbsp;and 82<sup>nd</sup> &nbsp;airborne division of the
-                    United States Army.</span></font><span lang="EN-US" style="mso-ansi-language: EN-US">
-                <o:p>
-            </span>
-        </font>
-    </p>
+    <?php if ( ! empty( $content_2nd ) ) { ?>
+    <div class="auto-style4" style="font-family: verdana;">
+        <?php echo $content_2nd; ?>
+    </div>
+    <?php }; ?>
     <font COLOR="#ff0000">
         <hr>
     </font>
@@ -116,10 +88,11 @@ get_header();
             <font face="Verdana">&quot;Back to
                 the Bocage&quot;</font>
         </a></h3>
-    <p align="center">
-        <font face="Verdana">2nd Armored Division - 82nd Recon. Unit - Re-enactment Tour
-            2006</font>
-    </p>
+    <?php if ( ! empty( $content_3rd ) ) { ?>
+    <div align="center" style="font-family: verdana;">
+        <?php echo $content_3rd; ?>
+    </div>
+    <?php }; ?>
     <font COLOR="#ff0000">
         <hr>
     </font>
@@ -132,23 +105,22 @@ get_header();
             </st1:place>
             of the United States Army</font>
     </h3>
-    <p align="center"><span style="FONT-SIZE: 12pt">
-            <font face="Verdana">Please
-                continue to pass the word to currently serving Soldiers and all other Army
-                Veterans that you come in contact with to please go to <a title="blocked::http://www.armyhistory.org/"
-                    href="http://www.armyhistory.org/">www.armyhistory.org</a>
-                or call 1-800-506-2672 to register.&nbsp; Enrollment is free!&nbsp; Even if
-                someone isn’t a Soldier or Army Veteran, but has family members or friends who
-                are, they can register for them on line or via the phone number provided.</font>
-        </span></p>
-    <p align="center">
-        <font face="Verdana"><u><img src="<?php echo get_template_directory_uri(); ?>/images/group.gif"
-                    alt="Berlin 1945" align="top" hspace="5" vspace="5" width="122" height="81"><br>
-            </u><b><i><span style="background-color: #FFFF00">The photo
-                        above:
-                        L to R,&nbsp; Bennie Margotta (dec.) Donald Litz ( dec) Howard Swonger (dec),
-                        Jerome Wax (dec) taken April 45 , Germany</span></i></b></font>
-    </p>
+    <?php if ( ! empty( $content_4th ) ) { ?>
+        <div align="center" style="font-family: verdana; font-size: 16px;">
+            <?php echo $content_4th; ?>
+        </div>
+    <?php }; ?>
+    <?php if ( ! empty( $content_5th ) ) { ?>
+        <div align="center">
+            <img src="<?php echo $content_5th; ?>"
+        alt="Berlin 1945" align="top" hspace="5" vspace="5" width="122" height="81"><br>
+        </div>
+    <?php }; ?>
+    <?php if ( ! empty( $content_6th ) ) { ?>
+        <p align="center" style="background-color: #FFFF00;">
+        <?php echo $content_6th; ?>
+        </p>
+    <?php }; ?>
     <font COLOR="#ff0000">
         <hr>
     </font>

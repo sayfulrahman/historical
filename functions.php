@@ -180,3 +180,8 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
 
+/**
+ * CMB2 Metabox for this theme.
+ */
+require get_template_directory() . '/metabox/CMB2/init.php';
+require get_template_directory() . '/metabox/CMB2/historical-functions.php';

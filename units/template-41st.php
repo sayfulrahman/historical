@@ -6,19 +6,35 @@
  *
  * @package historical
  */
+
+get_header();
 ?>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html>
-
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-    <meta name="ProgId" content="FrontPage.Editor.Document">
-    <title>41st Armored Infantry Regiment</title>
-    <meta name="Microsoft Border" content="tb">
-</head>
-
-<body stylesrc="../index.html">
+ <style type="text/css">
+ .auto-style4 {
+     font-family: Georgia, "Times New Roman", Times, serif;
+ }
+ 
+ .auto-style5 {
+     font-family: Georgia, "Times New Roman", Times, serif;
+     font-style: italic;
+     font-weight: bold;
+ }
+ </style>
+ <!-- #EndEditable -->
+ <style type="text/css">
+ .auto-style1 {
+     text-align: center;
+ }
+ 
+ .auto-style2 {
+     color: #AA6600;
+     text-decoration: underline;
+ }
+ 
+ .auto-style3 {
+     margin-left: 6px;
+ }
+ </style>
     <!--msnavigation-->
     <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
@@ -282,6 +298,5 @@
         </tr>
         <!--msnavigation-->
     </table>
-</body>
-
-</html>
+    <?php
+get_footer();
