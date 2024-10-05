@@ -9,136 +9,112 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
-<h1 align="center">
-    <font face="Verdana">GI Humor</font>
-</h1>
-
-<p align="left">
-    <font face="Verdana">Here we try some humor, if for any reason you find something
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
+    <h1 align="center">GI Humor</h1>
+    <p>
+        Here we try some humor, if for any reason you find something
         offensive please let us know stating the cause of your concern, this should be
         readable by kids as well as adults. We sometime miss a word that maybe we should
-        not use, let us know and we will correct.</font>
-</p>
-
-<b><u>
-        <p>
-            <font face="Verdana">GI HUMOR</font>
-    </u></b></p>
-<p>
-    <font face="Verdana">Modern Zen for the US Military<br>
+        not use, let us know and we will correct.
+    </p>
+    <p><b><u>GI HUMOR</u></b></p>
+    <p>
+        Modern Zen for the US Military<br>
         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
         Ed.: Recently adopted by the Joint Chiefs of Staff...<br>
-        *********************************************</font>
-</p>
-<p>
-    <font face="Verdana">1. Do not walk behind me, for I may not lead. Do not walk ahead of me, for I
-        may not follow. Do not walk beside me, either; just #$%^ off and leave me alone.</font>
-</p>
-<p>
-    <font face="Verdana">2. The journey of a thousand miles begins with a broken fan belt and a flat
-        tire.</font>
-</p>
-<p>
-    <font face="Verdana">3. Don't be irreplaceable; if you can't be replaced, you can't be promoted.</font>
-</p>
-<p>
-    <font face="Verdana">4. No one is listening until you make a mistake.</font>
-</p>
-<p>
-    <font face="Verdana">5. Always remember you're unique, just like everyone else.</font>
-</p>
-<p>
-    <font face="Verdana">6. Never test the depth of the water with both feet.</font>
-</p>
-<p>
-    <font face="Verdana">7. It may be that your sole purpose in life is simply to serve as a warning
-        to others.</font>
-</p>
-<p>
-    <font face="Verdana">8. It is far more impressive when others discover your good qualities without
-        your help.</font>
-</p>
-<p>
-    <font face="Verdana">9. If you think nobody cares if you're alive, try missing a couple of car
-        payments.</font>
-</p>
-<p>
-    <font face="Verdana">10. Before you criticize someone, you should walk a mile in their shoes. That
-        way, when you criticize them, you're a mile away and you have their shoes.</font>
-</p>
-<p>
-    <font face="Verdana">11. If you lend someone $20, and never see that person again, it was probably
-        worth it.</font>
-</p>
-<p>
-    <font face="Verdana">12. Don't squat with your spurs on.</font>
-</p>
-<p>
-    <font face="Verdana">13. If you drink, don't park; accidents cause people.</font>
-</p>
-<p>
-    <font face="Verdana">14. Some days you are the bug, some days you are the windshield.</font>
-</p>
-<p>
-    <font face="Verdana">15. The quickest way to double your money is to fold it in half and put it
-        back in your pocket.</font>
-</p>
-<p>
-    <font face="Verdana">16. Duct tape is like the force; it has a light side and a dark side, and it
-        holds the universe together.</font>
-</p>
-<p>
-    <font face="Verdana">GI HUMOR - Don't mess with a Vet<br>
+        *********************************************
+    </p>
+    <p>
+        1. Do not walk behind me, for I may not lead. Do not walk ahead of me, for I
+        may not follow. Do not walk beside me, either; just #$%^ off and leave me alone.
+    </p>
+    <p>
+        2. The journey of a thousand miles begins with a broken fan belt and a flat
+        tire.
+    </p>
+    <p>
+        3. Don't be irreplaceable; if you can't be replaced, you can't be promoted.
+    </p>
+    <p>
+        4. No one is listening until you make a mistake.
+    </p>
+    <p>
+        5. Always remember you're unique, just like everyone else.
+    </p>
+    <p>
+        6. Never test the depth of the water with both feet.
+    </p>
+    <p>
+        7. It may be that your sole purpose in life is simply to serve as a warning
+        to others.
+    </p>
+    <p>
+        8. It is far more impressive when others discover your good qualities without
+        your help.
+    </p>
+    <p>
+        9. If you think nobody cares if you're alive, try missing a couple of car
+        payments.
+    </p>
+    <p>
+        10. Before you criticize someone, you should walk a mile in their shoes. That
+        way, when you criticize them, you're a mile away and you have their shoes.
+    </p>
+    <p>
+        11. If you lend someone $20, and never see that person again, it was probably
+        worth it.
+    </p>
+    <p>
+        12. Don't squat with your spurs on.
+    </p>
+    <p>
+        13. If you drink, don't park; accidents cause people.
+    </p>
+    <p>
+        14. Some days you are the bug, some days you are the windshield.
+    </p>
+    <p>
+        15. The quickest way to double your money is to fold it in half and put it
+        back in your pocket.
+    </p>
+    <p>
+        16. Duct tape is like the force; it has a light side and a dark side, and it
+        holds the universe together.
+    </p>
+    <p>
+        GI HUMOR - Don't mess with a Vet<br>
         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
         Ed.: SFTT does not endorse the overuse of alcoholic beverages to boost morale or
-        combat courage...(maybe 1x six-pack...)</font>
-</p>
-<p>
-    <font face="Verdana">A teacher gave her fifth grade class an assignment: Get their parents to tell
-        them a story with a moral at the end of it.</font>
-</p>
-<p>
-    <font face="Verdana">The next day the kids came back and one by one began to tell their stories.</font>
-</p>
-<p>
-    <font face="Verdana">Kathy said, &quot;My father's a farmer and we have a lot of egg-laying hens.
+        combat courage...(maybe 1x six-pack...)
+    </p>
+    <p>
+        A teacher gave her fifth grade class an assignment: Get their parents to tell
+        them a story with a moral at the end of it.
+    </p>
+    <p>
+        The next day the kids came back and one by one began to tell their stories.
+    </p>
+    <p>
+        Kathy said, &quot;My father's a farmer and we have a lot of egg-laying hens.
         One time we were taking our eggs to market in a basket on the front seat of the
         pickup when we hit a bump in the road and all the eggs went flying and broke and
         made a mess.<br>
         &quot;And what's the moral of the story?&quot; asked the teacher. &quot;Don't
         put all your eggs in one basket!&quot;<br>
-        &quot;Very good,&quot; said the teacher.</font>
-</p>
-<p>
-    <font face="Verdana">&quot;Now, Lucy?&quot;<br>
+        &quot;Very good,&quot; said the teacher.
+    </p>
+    <p>
+        &quot;Now, Lucy?&quot;<br>
         &quot;Our family are farmers too. But we raise chickens for the meat market. We
         had a dozen eggs one time, but when they hatched we only got ten live chicks.<br>
         And the moral to this story is, don't count your chickens until they're
         hatched.&quot;<br>
-        &quot;That was a fine story Lucy.</font>
-</p>
-<p>
-    <font face="Verdana">Johnny do you have a story to share?&quot;<br>
+        &quot;That was a fine story Lucy.
+    </p>
+    <p>
+        Johnny do you have a story to share?&quot;<br>
         &quot;Yes, ma'am, my daddy told me this story about my Uncle Bob. Uncle Bob was
         a pilot in Vietnam and his plane got hit. He had to bail out over enemy
         territory and all he had was a bottle of whiskey, a machine gun and machete. He
@@ -150,18 +126,18 @@ get_header();
         &quot;Good heavens,&quot; said the horrified teacher, &quot; what kind of moral
         did your daddy tell you from that horrible story?&quot;<br>
         &quot;Don't mess with Uncle Bob when he's been drinking.&quot;<br>
-        ~~~~~~~~~~~~~~~~~~~~~~~~</font>
-</p>
-<p>
-    <font face="Verdana">GI HUMOR - Redneck Medical Terms<br>
+        ~~~~~~~~~~~~~~~~~~~~~~~~
+    </p>
+    <p>
+        GI HUMOR - Redneck Medical Terms<br>
         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
         Ed.: For all of you that were upset about the non-politically correct
         joke...here is one more for PC. It took me years to speak the lingo but one year
         on a Southern tank crew did it. Might help some of you Yankees that have lived
-        in isolation...</font>
-</p>
-<p>
-    <font face="Verdana">* Benign - What you be after you be eight.<br>
+        in isolation...
+    </p>
+    <p>
+        * Benign - What you be after you be eight.<br>
         * Artery - The study of paintings.<br>
         * Bacteria - Back door to cafeteria.<br>
         * Barium - What doctors do when patients die.<br>
@@ -187,63 +163,59 @@ get_header();
         * Post Operative - A letter carrier.<br>
         * Rectum - Damn near killed him.<br>
         * Secretion - Hiding something.<br>
-        * Seizure - Roman emperor.</font>
-</p>
-<p>
-    <font face="Verdana">-------------------</font>
-</p>
-<p>
-    <font face="Verdana">When the Master Chief gets home about 9:30 his wife confronts him and asks
+        * Seizure - Roman emperor.
+    </p>
+    <p>-------------------</p>
+    <p>
+        When the Master Chief gets home about 9:30 his wife confronts him and asks
         him where he's been. The man says, &quot;I cannot lie to you. I spent the better
         part of the day with my secretary in a motel room, then I fell asleep, woke up
-        later, and came right home.&quot;</font>
-</p>
-<p>
-    <font face="Verdana">His wife looks down at his shoes and says, &quot;You lying bas;;;;;, you've
-        been out playing golf again!<br>
-        --------------------------------------------------------------------</font>
-</p>
-<p>
-    <font face="Verdana">GI HUMOR - Some Dogs are different</font>
-</p>
-<p>
-    <font face="Verdana">four men were bragging about how smart their dogs are.</font>
-</p>
-<p>
-    <font face="Verdana">The first man was an Engineer, the second was an Accountant, the third a
-        Chemist, and the fourth was a Government worker.</font>
-</p>
-<p>
-    <font face="Verdana">To show off, the Engineer called to his dog. &quot;T-Square, do your
+        later, and came right home.&quot;
+    </p>
+    <p>
+        His wife looks down at his shoes and says, &quot;You lying bas;;;;;, you've
+        been out playing golf again!<br>--------------------------------------------------------------------
+    </p>
+    <p>
+        GI HUMOR - Some Dogs are different
+    </p>
+    <p>
+        four men were bragging about how smart their dogs are.
+    </p>
+    <p>
+        The first man was an Engineer, the second was an Accountant, the third a
+        Chemist, and the fourth was a Government worker.
+    </p>
+    <p>
+        To show off, the Engineer called to his dog. &quot;T-Square, do your
         stuff.&quot; T-Square trotted over to the desk, took out some paper and promptly
         drew a circle, a square, and a triangle.<br>
-        Everyone agreed that was pretty smart.</font>
-</p>
-<p>
-    <font face="Verdana">But the Accountant said his dog could do better. He called his dog and said,
+        Everyone agreed that was pretty smart.
+    </p>
+    <p>
+        But the Accountant said his dog could do better. He called his dog and said,
         &quot;Spreadsheet, do your stuff.&quot; Spreadsheet went out into the kitchen
         and returned with a dozen cookies. He divided them into four equal piles of
-        three cookies each. Everyone agreed that was good.</font>
-</p>
-<p>
-    <font face="Verdana">But the Chemist said his dog could do better. He called his dog and said,
+        three cookies each. Everyone agreed that was good.
+    </p>
+    <p>
+        But the Chemist said his dog could do better. He called his dog and said,
         &quot;Measure, do your stuff.&quot; Measure got up, walked over to the fridge,
         took out a quart of milk, got a 10 ounce glass from the cupboard and poured
-        exactly 8 ounces without spilling a drop!</font>
-</p>
-<p>
-    <font face="Verdana">Everyone agreed that was good. Then the three men turned to the government
+        exactly 8 ounces without spilling a drop!
+    </p>
+    <p>
+        Everyone agreed that was good. Then the three men turned to the government
         worker, and said, &quot;What can your dog do?&quot; The Government worker called
         to his dog and said, &quot;Coffee Break, do your stuff.&quot;<br>
         Coffee Break slowly got off his feet, ate the cookies, drank the milk, crapped
         on the paper, , claimed he injured his back while doing so, filed a grievance
         report for unsafe working conditions, put in for workers' compensation, and went
         home for the rest of the day on sick leave.<br>
-        ------------------------------------------------------------</font>
-</p>
-
-<p>
-    <font face="Verdana">Riding A Honda<br>
+        ------------------------------------------------------------
+    </p>
+    <p>
+        Riding A Honda<br>
         A biker is riding a new motorcycle on the highway. While passing a car, he
         knocks on the window. The driver of the car opens the window and says,
         &quot;Yes?&quot;<br>
@@ -259,15 +231,11 @@ get_header();
         A car stops and a man runs to the unlucky biker. Covered in blood and surely
         dying, the biker asks, &quot;Ever driven a Honda motorcycle?&quot;<br>
         The man replies, &quot;Yes I have. I had a Honda for 20 years&quot;.<br>
-        The biker asks, &quot;Where are the brakes?&quot;</font>
-</p>
-
-<p>
-    <font face="Verdana">-------------------------</font>
-</p>
-
-<p>
-    <font face="Verdana">An old man was laying on his death bed.<br>
+        The biker asks, &quot;Where are the brakes?&quot;
+    </p>
+    <p>-------------------------</p>
+    <p>
+        An old man was laying on his death bed.<br>
         He had only hours to live when he suddenly<br>
         smelled chocolate chip cookies.<br>
         <br>
@@ -283,15 +251,11 @@ get_header();
         back of his hand by the wooden spoon his wife was<br>
         holding.<br>
         &quot;Leave them alone!&quot; she said, &quot;They're for the funeral!&quot;
-    </font>
-</p>
 
-<p>
-    <font face="Verdana">----------------------</font>
-</p>
-
-<p>
-    <font face="Verdana">Subject: Fw: Signs<br>
+    </p>
+    <p>----------------------</p>
+    <p>
+        Subject: Fw: Signs<br>
         Veterinary's office:<br>
         &quot;All unattended children given free kitten&quot;<br>
         On a Plumbers truck: &quot;We repair what your husband fixed.&quot;<br>
@@ -316,11 +280,11 @@ get_header();
         the front yard of a funeral home: &quot;Drive carefully, we'll wait.&quot;<br>
         In a counselors office: &quot;Growing old is mandatory, growing wise is
         optional.&quot;<br>
-        At a garage specializing in radiator repair: &quot;A great place to take a leak</font>
-</p>
-<p>
-    <font face="Verdana">==================<u>Subject: Here's a little part of US history, which makes
-            you gohmmmmmmmm.<br>
+        At a garage specializing in radiator repair: &quot;A great place to take a leak
+    </p>
+    <p>
+        ==================<u>Subject: Here's a little part of US history, which makes
+            you gohm.<br>
             Coincidence?<br>
             Abraham Lincoln was elected to Congress in 1846.<br>
             John F. Kennedy was elected to Congress in 1946.<br>
@@ -346,9 +310,10 @@ get_header();
             Oswald ran from a warehouse and was caught in a theater.Booth and Oswald were
             assassinated before their trials.<br>
             And here's the kicker,<br>
-            A week before Lincoln was shot, he was in Monroe, Maryland.</u></font>
-</p>
-
-<p align="center">&nbsp;</p>
+            A week before Lincoln was shot, he was in Monroe, Maryland.</u>
+    </p>
+    <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
 <?php
 get_footer();

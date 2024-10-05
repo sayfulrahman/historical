@@ -126,7 +126,11 @@ function historical_register_metabox() {
 		'id'      => 'home_page_content_1st',
 		'type'    => 'wysiwyg',
 		'options' => array(
-			'textarea_rows' => 3,
+			'wpautop' => true, // use wpautop?
+			'media_buttons' => true, // show insert/upload button(s)
+			'textarea_rows' => get_option('default_post_edit_rows', 3), // rows="..."
+			'tinymce' => true, // load TinyMCE, can be used to pass settings directly to TinyMCE using an array()
+			'quicktags' => true // load Quicktags, can be used to pass settings directly to Quicktags using an array()
 		),
 	) );
 
@@ -136,7 +140,11 @@ function historical_register_metabox() {
 		'id'      => 'home_page_content_2nd',
 		'type'    => 'wysiwyg',
 		'options' => array(
-			'textarea_rows' => 3,
+			'wpautop' => true, // use wpautop?
+			'media_buttons' => true, // show insert/upload button(s)
+			'textarea_rows' => get_option('default_post_edit_rows', 3), // rows="..."
+			'tinymce' => true, // load TinyMCE, can be used to pass settings directly to TinyMCE using an array()
+			'quicktags' => true // load Quicktags, can be used to pass settings directly to Quicktags using an array()
 		),
 	) );
 
@@ -146,7 +154,11 @@ function historical_register_metabox() {
 		'id'      => 'home_page_content_3rd',
 		'type'    => 'wysiwyg',
 		'options' => array(
-			'textarea_rows' => 3,
+			'wpautop' => true, // use wpautop?
+			'media_buttons' => true, // show insert/upload button(s)
+			'textarea_rows' => get_option('default_post_edit_rows', 3), // rows="..."
+			'tinymce' => true, // load TinyMCE, can be used to pass settings directly to TinyMCE using an array()
+			'quicktags' => true // load Quicktags, can be used to pass settings directly to Quicktags using an array()
 		),
 	) );
 
@@ -156,7 +168,11 @@ function historical_register_metabox() {
 		'id'      => 'home_page_content_4th',
 		'type'    => 'wysiwyg',
 		'options' => array(
-			'textarea_rows' => 3,
+			'wpautop' => true, // use wpautop?
+			'media_buttons' => true, // show insert/upload button(s)
+			'textarea_rows' => get_option('default_post_edit_rows', 3), // rows="..."
+			'tinymce' => true, // load TinyMCE, can be used to pass settings directly to TinyMCE using an array()
+			'quicktags' => true // load Quicktags, can be used to pass settings directly to Quicktags using an array()
 		),
 	) );
 
@@ -173,7 +189,11 @@ function historical_register_metabox() {
 		'id'      => 'home_page_content_6th',
 		'type'    => 'wysiwyg',
 		'options' => array(
-			'textarea_rows' => 3,
+			'wpautop' => true, // use wpautop?
+			'media_buttons' => true, // show insert/upload button(s)
+			'textarea_rows' => get_option('default_post_edit_rows', 3), // rows="..."
+			'tinymce' => true, // load TinyMCE, can be used to pass settings directly to TinyMCE using an array()
+			'quicktags' => true // load Quicktags, can be used to pass settings directly to Quicktags using an array()
 		),
 	) );
 

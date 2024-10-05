@@ -11,7 +11,7 @@
 
 ?>
 <!-- Begin Footer -->
-<div id="footer">
+<footer class="hiscal-footer">
     <?php
     /**
      * Bottom Footer Menu
@@ -43,19 +43,12 @@
         );
     };
     ?>
-</div>
+</footer>
 <!-- End Footer -->
+<div class="hiscal-siteinfo">Copyright (c) 1998-2019 <a href="about">2ndarmoredhellonwheels.com</a> - All rights reserved.</div>
 </div>
 <!-- End Container -->
-
-<p class="auto-style1">Copyright (c) 1998-2019
-    <a href="about">
-        <span class="auto-style2">2ndarmoredhellonwheels.com </span></a>- All rights
-    reserved.
-</p>
 <?php wp_footer(); ?>
 </body>
-
-<!-- #EndTemplate -->
 
 </html>

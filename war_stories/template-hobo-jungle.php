@@ -9,55 +9,31 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
-<h2 align="center">
-    <font face="Verdana">Hoboes, men &amp; women served in the
-        Armed Forces during WW 2</font>
-</h2>
-<p><strong>
-        <font face="Verdana">HOBO Stuff and News:</font>
-    </strong></p>
-<p>
-    <font face="Verdana"><strong><u>Mulligan Stew:</u></strong> How to make just
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
+    <h2 class="center">Hoboes, men &amp; women served in the Armed Forces during WW 2</h2>
+    <p><strong>HOBO Stuff and News:</strong></p>
+    <p>
+        <strong><u>Mulligan Stew:</u></strong> How to make just
         like they make it at the yearly convention in Britt. Iowa.<strong>
             &quot;Britt Mulligan Stew&quot; = </strong>450 lbs. of Beef, 900 lbs. of
         Potatoes, 250 lbs. of carrots, 35 lbs. of green peppers, 300 lbs. of cabbage,
         100 lbs. of turnips, 10 lbs. of parsnips, 150 lbs. of tomatoes, 20 lbs. of chili
         peppers, 25 lbs. of rice, 60 lbs. of celery, 1 lb bay leaves, 24 gallon of mixed
         vegetables, 10 lbs. of kitchen bouquet flavoring, about 400 loaves of bread are
-        served, a total of 5000, 8 oz. cups-ordered to serve the stew.</font>
-</p>
-<p><strong>
-        <font face="Verdana">Mulligan of Happiness: Sunshine,
+        served, a total of 5000, 8 oz. cups-ordered to serve the stew.
+    </p>
+    <p><strong>
+            Mulligan of Happiness: Sunshine,
             Patience, Faith, Kindness, 1 cup of Romance, 1 tablespoon Sympathy, 1 teaspoon
             of Forgiveness, 1 Teardrop, Tolerance, Friendship, Ambition Stardust,
             Imagination. Just mix the above all together and you will have Mulligan
-            Happiness.</font>
-    </strong></p>
-<p><strong><u>
-            <font face="Verdana">Hobo Jungle:</font>
-        </u></strong></p>
-<p>
-    <font face="Verdana">The name &quot;Hobo&quot; first started appearing in the
+            Happiness.
+        </strong></p>
+    <p><strong><u>Hobo Jungle:</u></strong></p>
+    <p>
+        The name &quot;Hobo&quot; first started appearing in the
         early 1800's. Before the Civil War many hoboes had taken to the rails as a way
         of life. Around the time of the Civil War, railroads were being built a an
         astonishing rate and in the early 1870's there were between 50,000 and 60,000
@@ -79,20 +55,20 @@ get_header();
         and eating a sandwich, standing up, then doing a little chore for the donor of
         the coffee and food. In around the time that World War 1 was raging and we were
         yet to join in the war, hoboes were running rampant, trying to get into a stable
-        work force and maybe settle down and some did, but the number continued to grow.</font>
-</p>
-<p>
-    <font face="Verdana">By the 1920' the unsettling image was making a change ,
+        work force and maybe settle down and some did, but the number continued to grow.
+    </p>
+    <p>
+        By the 1920' the unsettling image was making a change ,
         there were some very notable people that had rode the rails, among them Jack
         London, and author Carl Sandburg, they made it big in their field so many people
         took this to mean that there were some that had it all together and could make a
         go of it , without living around a bunch of trains. A clown made up as a hobo
         caught a lot of attention , what they really did was depict a way of life in
         America, some people could relate to that. During the Great Depression over
-        8,000 women &amp; over 200,000 children rode the rails as well.</font>
-</p>
-<p>
-    <font face="Verdana">In 1932 the Bonus marchers arrived to pressure Hoover for
+        8,000 women &amp; over 200,000 children rode the rails as well.
+    </p>
+    <p>
+        In 1932 the Bonus marchers arrived to pressure Hoover for
         their long awaited bonuses, and they were not the same as the hobo who was
         resourceful in making his way and not starving, he made it on the ability to get
         by, they improvised when the chips were down.. The center of the hobo life as
@@ -107,27 +83,27 @@ get_header();
         into camp ) Thievery was to be kept to a minimum, maybe a piece of food taken or
         vegetables taken from a garden or something off the clothesline. There was to be
         no breaking into any house or threatening people, these were serious offenses
-        and could bring death by a fellow hobo.</font>
-</p>
-<p>
-    <font face="Verdana">Hobo's rode freight trains nearly always. Greenie told me
+        and could bring death by a fellow hobo.
+    </p>
+    <p>
+        Hobo's rode freight trains nearly always. Greenie told me
         that he always carried a railroad spike with a gold painted tip, so he could
         identify as his. He would use this to keep the railroad yardman from closing the
         door on him, which could result in him freezing to death or suffocating, as some
-        freight cars were pushed into the rail yard and out of use for weeks at a time.</font>
-</p>
-<p>
-    <font face="Verdana">In the period leading up to World War 2 saw many hobos,
+        freight cars were pushed into the rail yard and out of use for weeks at a time.
+    </p>
+    <p>
+        In the period leading up to World War 2 saw many hobos,
         going into the 3-c camps and then into the army and serving in World War 2,
         afterward some would take advantage of the GI Bill and enter college or other
         professions. After the war the numbers of hobo's declined rapidly. What used to
         be up to 500 on a freight train in the early 50's would only turn into around 10
         hobo's on a fully loaded freight train. So the handwriting was on the wall, they
         were a group that would be almost extinct in the years to come, but a few still
-        lead this life, but the number's remaining are limited. <u>construction ongoing</u></font>
-</p>
-<p>
-    <font face="Verdana"><strong><u>Boxcar Willie:</u></strong> In Branson, MO.,
+        lead this life, but the number's remaining are limited. <u>construction ongoing</u>
+    </p>
+    <p>
+        <strong><u>Boxcar Willie:</u></strong> In Branson, MO.,
         Well known Hobo and Country singer Box Car Willie is back on track in his battle
         against leukemia. The 67-year-old entertainer returned home from the hospital
         Tuesday March 2, 1999, he had received chemotherapy. He had been hospitalized
@@ -141,15 +117,12 @@ get_header();
         graduated to playing in jamborees all over the state, but he gave up show
         business to enlist in the Air Force. He spent 22 years there, logging some
         10,000 hours as a flier, Boxcar Willie died 12 April 1999 at the age of 67. He
-        is survived by his wife, two daughters and two sisters.</font>
-</p>
-<p>
-    <font face="Verdana"><strong>National Hobo Convention: </strong>Usually held in
-        early August each year in Britt, Iowa</font>
-</p>
-<p align="center"><strong>
-        <font face="Verdana">More coming, we invite you to send
-            us material to add here.</font>
-    </strong>
-    <?php
+        is survived by his wife, two daughters and two sisters.
+    </p>
+    <p><strong>National Hobo Convention: </strong>Usually held in early August each year in Britt, Iowa</p>
+    <p class="center"><strong>More coming, we invite you to send us material to add here.</strong></p>
+    <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
+<?php
 get_footer();

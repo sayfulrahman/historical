@@ -9,47 +9,20 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
 <!-- Begin Content -->
-<div id="content" class="auto-style3" style="width: 664px">
+<div class="content">
     <!-- #BeginEditable "content" -->
     <h2>War Stories</h2>
-
-    <p align="center">
-        <font face="Verdana"><img border="0"
-                src="<?php echo get_template_directory_uri(); ?>/images/3_soldiers_2ndAD_drawing.gif"
-                alt="3 Soldiers of the 2nd AD Drawing" width="346" height="403"></font>
+    <div class="media center">
+        <img border="0" src="<?php echo get_template_directory_uri(); ?>/images/3_soldiers_2ndAD_drawing.gif"
+            alt="3 Soldiers of the 2nd AD Drawing" width="346" height="403">
+    </div>
+    <p class="center">(L-R) Corporal, 41st Infantry March 1945; Private 1st Class, 66th Armor Winter 1944-45; Private,
+        17th Armored Engineer Bn. July 1944 (Drawing)</p>
+    <p class="center">This section of the U.S. 2nd Armored &quot;Hell on Wheels&quot; site features combat stories
+        submitted by former combat members of the 2nd AD.
     </p>
-    <p align="center">
-        <font face="Verdana">(L-R) Corporal, 41st Infantry March 1945;
-            Private 1st Class, 66th Armor Winter 1944-45; Private, 17th Armored Engineer Bn.
-            July 1944 (Drawing)</font>
-    </p>
-    <p align="center">
-        <font face="Verdana">This section of the U.S. 2nd Armored
-            &quot;Hell on Wheels&quot; site features combat stories submitted by former
-            combat members of the 2nd AD.</font>
-    </p>
-    <ul>
+    <ul class="hiscal-list">
         <li>
             <a href="3-days-actual-combat">
                 3_days_actual_combat</a>
@@ -111,10 +84,7 @@ get_header();
                 weapons_of_war</a>
         </li>
     </ul>
-    <p class="auto-style4">
-        &nbsp;Note:
-        You may have to use your web browser's back button to get back to this
-        index.
+    <p class="hiscal-note">Note: You may have to use your web browser's back button to get back to this index.</p>
         <!-- #EndEditable "content" -->
 </div>
 <!-- End Content -->

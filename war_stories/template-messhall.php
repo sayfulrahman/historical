@@ -9,39 +9,12 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">To The Editors,<span
-            style="mso-tab-count: 8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
-            style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>4 July 2004</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">I read with sadness of the death of Major General George S.
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
+    <p>To The Editors,<span style="float: right;">4 July 2004</span></p>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+        I read with sadness of the death of Major General George S.
         Patton III and wish to express my condolences to his family. While he was well
         known in military circles as a superb combat commander there is another aspect
         of him that I wish to share when he commanded the 2<sup>nd</sup> Armored
@@ -51,15 +24,10 @@ get_header();
         “Soldier of the Day,” a day that I shall always consider to be a high
         point in my life. He impressed me with his efforts maintain the division in
         the highest standards possible on an inadequate budget and having to maintain
-        a combat ready brigade in Germany as well.</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">We had a pretty good armored battalion except in one area,
+        a combat ready brigade in Germany as well.
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+        We had a pretty good armored battalion except in one area,
         and that was a mess section that seem to believe that the only time they were
         required to serve edible food was only on Thanksgiving and Christmas. The rest
         of the year they were a.w.o.l. when it came to decent rations. Despite the
@@ -90,99 +58,62 @@ get_header();
         or the colonel during this unfolding drama. Instead, I was thinking about what
         I knew about Patton from my own observations and those made by others who
         served with him in the 11th Armored Cavalry Regiment in Viet Nam. I knew that
-        this sorry state of affairs wasn't going to be tolerated.</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">The next morning:</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" align="center">
-    <font face="Verdana">I walked in the mess hall and what did I see,</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" align="center">
-    <font face="Verdana">I saw the new cooks peering at me!</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">In less than 24 hours Gen. Patton had solved the problem in
+        this sorry state of affairs wasn't going to be tolerated.
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">The next morning:</div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" class="center">
+        I walked in the mess hall and what did I see,
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" class="center">
+        I saw the new cooks peering at me!
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+        In less than 24 hours Gen. Patton had solved the problem in
         a most satisfactory manner by firing everyone save one cook and bringing in
         new personnel. We never had lousy chow again for the remainder of the time I
         was with the battalion and I note improved morale as well. I'm happy to note
         as well my battalion commander didn't suffer any harmful effects either.
-        Some things a battalion commander can't do. It takes a divisional commander.</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">I write this as a small token of my regard for this brave
+        Some things a battalion commander can't do. It takes a divisional commander.
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+        I write this as a small token of my regard for this brave
         and outstanding American General. It is these things as well as possessing
-        great combat skills that make the finest officers.</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">This former cavalry scout concludes with this. Major
+        great combat skills that make the finest officers.
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+        This former cavalry scout concludes with this. Major
         General Patton, may God bless you Sir and on behalf of the men of my unit
         thank you for the squared away k.p. job you did on that mess section. I know
-        for a fact that everyone was appreciative for it.</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">&nbsp;<o:p>
-        </o:p>
-    </font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">Wm. Ryan Murphy,</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">Dunwoody, GA</font>
-</div>
-<div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <font face="Verdana">Former SGT, USA</font>
-</div>
-<p align="center"><strong>
-        <font color="#FF0000" face="Verdana">If you were ever in
+        for a fact that everyone was appreciative for it.
+    </div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">Wm. Ryan Murphy,</div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">Dunwoody, GA</div>
+    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">Former SGT, USA</div>
+    <p class="center">
+        <strong>
+            If you were ever in
             charge of a Mess Hall (I never was ) email us your experience we will post it here, or if you
             experienced any part of a Mess Hall life, the food and KP tales, just write us.
-            We will post here.</font>
-    </strong></p>
-<p align="center"><strong>
-        <font color="#FF0000" face="Verdana">(We will have
-            good recipes on through the year, &quot; direct from Slim's
-            recipe notebook.&nbsp; (Slim is my Recipe moniker )</font>
-    </strong></p>
-<p align="center"><strong>
-        <font face="Verdana">How to Fix a Roast Stuffed
-            Turkey. good year round recipes for Chili and SOS, and a variety of&nbsp; recipes below.</font>
-    </strong></p>
-<p>
-    <font face="Verdana">One turkey, <b><u>Slims way ,</u></b> how to do it. Stuffing, gravy, see below</font>
-</p>
-<p>
-    <font face="Verdana">1/4-1/2 pound butter, depending on the size of the turkey, salt, freshly, ground pepper.
-    </font>
-</p>
-<p>
-    <font face="Verdana">Preheat the oven to 325 degrees' F's or165C. If you
+            We will post here.
+        </strong>
+    </p>
+    <p class="center">
+        <strong>We will have good recipes on through the year, &quot; direct from Slim's
+            recipe notebook. (Slim is my Recipe moniker )
+        </strong>
+    </p>
+    <p class="center">
+        <strong>How to Fix a Roast Stuffed Turkey. Good year round recipes for Chili and SOS, and a variety of&nbsp;
+            recipes below.</strong>
+    </p>
+    <p>
+        One turkey, <b><u>Slims way ,</u></b> how to do it. Stuffing, gravy, see below
+    </p>
+    <p>
+        1/4-1/2 pound butter, depending on the size of the turkey, salt, freshly, ground pepper.
+    </p>
+    <p>
+        Preheat the oven to 325 degrees' F's or165C. If you
         bought a frozen turkey ( hard as a rock ) start thawing at least 2 days before
         you intend to cook, put in a paper bag; and place in sink or a large dish to
         catch moisture., close the bag. When ready to cook rinse the turkey and pat it
@@ -199,20 +130,18 @@ get_header();
         that is the top burner ) and brown the top part of the turkey. Be careful not to
         over brown. Remove the turkey to a warm platter and cover loosely with a towel
         or leave the foil on with the top open. Let rest 15 minutes. Be sure not to
-        overcook or undercook, use a meat thermometer.</font>
-</p>
-<p>
-    <font face="Verdana">Two choices of gravy for you to choose from:</font>
-</p>
-<p>
-    <font face="Verdana">1. Turkey Gravy: Two factors help make a good deep brown
+        overcook or undercook, use a meat thermometer.
+    </p>
+    <p>Two choices of gravy for you to choose from:</p>
+    <p>
+        1. Turkey Gravy: Two factors help make a good deep brown
         gravy: the drippings on the bottom of the roasting pan and the slow browning of
         the flour in the fat. Do as follows: four tablespoons of fat from the pan
         drippings, three tablespoons of flour, salt, freshly ground pepper, two cups of
-        liquid: stock giblet broth, water or milk.</font>
-</p>
-<p>
-    <font face="Verdana">When the bird has been removed from the roasting pan, ( if
+        liquid: stock giblet broth, water or milk.
+    </p>
+    <p>
+        When the bird has been removed from the roasting pan, ( if
         bird is still moving hit him with a mallet ) skim
         off all but four tablespoons of fat in, if there is not enough fat in the
         drippings, add butter. Place the over a burner and heat it, scraping the bottom
@@ -220,19 +149,19 @@ get_header();
         handle, scrape and pour the drippings into a sauce pan.) in the flour and blend
         well over medium heat for three minutes or more, until lightly browned. Add salt
         and pepper to taste and slowly pour in liquid, stirring constantly, until
-        smooth, simmer for 10 minutes to develop the flavor.</font>
-</p>
-<p>
-    <font face="Verdana">2. Giblet Broth: Generally speaking &quot;Giblets&quot;
+        smooth, simmer for 10 minutes to develop the flavor.
+    </p>
+    <p>
+        2. Giblet Broth: Generally speaking &quot;Giblets&quot;
         will refer to all those parts-the neck, heart, liver, and gizzard of poultry.
         A broth made of giblets and some vegetables will add to the richness to the
         gravy, as will the chopped giblets themselves, Because of its strong flavor, the
         liver should not be cooked in the broth, but separately. Ingredients: Giblets,
         one teaspoon, thyme, crumbled, one thick slice onion, one rib celery with leaves
-        sliced, salts, ground pepper, butter, ( Optional )</font>
-</p>
-<p>
-    <font face="Verdana"><u>How to prepare with the above</u>. Rinse the gizzard,
+        sliced, salts, ground pepper, butter, ( Optional )
+    </p>
+    <p>
+        <u>How to prepare with the above</u>. Rinse the gizzard,
         heart and neck, and trim fat away and membranes and blood. Put the giblets in a
         sauce pan, cover with water, and add thyme, onion, celery, and sprinkle with
         salt and pepper. Bring to a boil and simmer 45 minutes, or until the gizzard is
@@ -240,10 +169,10 @@ get_header();
         minutes or sauté lightly in some butter. Strain the giblets, reserve the broth,
         and finely dice the gizzard and liver, and hearty. Using the broth, you could
         take the turkey gravy recipe shown in No.1 and just add the giblets at the end
-        and you have giblet gravy.</font>
-</p>
-<p>
-    <font face="Verdana">3. Bread Stuffing: 1/4 pound of butter ( 115g ), four
+        and you have giblet gravy.
+    </p>
+    <p>
+        3. Bread Stuffing: 1/4 pound of butter ( 115g ), four
         tablespoons of finely chopped onions, four tablespoons of finely chopped celery,
         four cups of dry bread crumbs, 1/4 teaspoon of ground pepper, salt to taste. <u>Do
             it this way</u>: melt the butter in a skillet and stir in the onion and celery.
@@ -251,34 +180,34 @@ get_header();
         lightly with plenty of pepper and salt. <u>To store leftovers</u>, remove the
         stuffing from the cavity, and refrigerate. To heat, place the casserole in a 325
         degrees oven for half an hour , or toss the stuffing in a skillet a few
-        tablespoons of butter.</font>
-</p>
-<p>
-    <font face="Verdana">4. The stuffing's mix: ( they have all kinds ) buy at any
-        grocery store and follow directions.</font>
-</p>
-<p>
-    <font face="Verdana">5, Truss up the turkey: . Just take the two legs, with
+        tablespoons of butter.
+    </p>
+    <p>
+        4. The stuffing's mix: ( they have all kinds ) buy at any
+        grocery store and follow directions.
+    </p>
+    <p>
+        5, Truss up the turkey: . Just take the two legs, with
         turkey breast up and tie together with stainless wire or heat proof string,
         after you have removed the turkey form the oven and the turkey is cooked, when
-        you are ready to carve the take off the truss.</font>
-</p>
-<p>
-    <font face="Verdana"><b><u>Special fast roast turkey: for those who do not have
-                much time.</u></b> (and always in a hurry) ( Slim's hurry up mode )</font>
-</p>
-<p>
-    <font face="Verdana">Go to store buy turkey, bring home take out body parts,
+        you are ready to carve the take off the truss.
+    </p>
+    <p>
+        <b><u>Special fast roast turkey: for those who do not have
+                much time.</u></b> (and always in a hurry) ( Slim's hurry up mode )
+    </p>
+    <p>
+        Go to store buy turkey, bring home take out body parts,
         they are in package in turkey, heat oven to 325 degrees, mix top of the stove
         dressing, you can buy it at the store, and put in turkey cavity. Turkey comes
         with a wire clip that holds legs together. Salt and pepper the turkey and wrap
         with foil, put in shallow pan slide into the oven. Cook until done, at least to
         get center of turkey to 165 degrees or a little more, pull back foil and brown
         the last 45 minutes of the baking cycle. When done pull out and eat the turkey.
-        Written by J. J. (Slim) (Its a Fact)</font>
-</p>
-<p>
-    <font face="Verdana"><strong><u>Slim's Chili, </u>( outstanding ) </strong>10
+        Written by J. J. (Slim) (Its a Fact)
+    </p>
+    <p>
+        <strong><u>Slim's Chili, </u>( outstanding ) </strong>10
         oz. of thin spaghetti ( cook as per directions on box. , set aside. ) .1 /12 teaspoon
         vegetable oil. 1 lb. very lean ground beef, 3 large onions (chopped) 1 large
         bell pepper (chopped) , 1 can tomato sauce ( 8 to 10 oz.), 3 teaspoons of minced
@@ -300,10 +229,10 @@ get_header();
         bowl, and 1 tablespoon of shredded cheese to each bowl. Note: For two way just
         spaghetti, three way add cheese also, four way ( beans on top), five way or 5
         way chili, sprinkle raw diced onion to top of each bowl. ( with onions),. Time
-        to eat and enjoy this fine chili from Slim's recipe book.</font>
-</p>
-<p>
-    <font face="Verdana"><strong>Slims SOS (Sh-t on a shingle);</strong> 1
+        to eat and enjoy this fine chili from Slim's recipe book.
+    </p>
+    <p>
+        <strong>Slims SOS (Sh-t on a shingle);</strong> 1
         /12 teaspoon vegetable oil. 1/2 lb. very lean ground beef, 2 large onions
         (chopped) 1/4 bell pepper (chopped) , put in skillet and cook until all is
         tender, when done, drain liquid off. while this is cooking take 3 tablespoons of
@@ -314,7 +243,10 @@ get_header();
         too much add more water to thin some. Toast bread and pour SOS on the toast, its
         good, try it. The above recipes please try at your own risk, if you like them
         tell us, we welcome your comments. The army served a lot of this SOS. More on
-        the way.</font>
-</p>
+        the way.
+    </p>
+    <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
 <?php
 get_footer();

@@ -1,106 +1,167 @@
-﻿@import url("layout.css");
+﻿*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 body {
-	font-family: "Georgia", "Times New Roman", Times, serif;
-	font-size: 0.8em;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 0.8rem;
 	background-color: #764;
 	background-image: url("../images/tank-backgrnd.gif");
 	background-repeat: repeat;
 	background-attachment: scroll;
+	margin: 0;
+	padding: 0;
 }
-#container {
-	width: 700px;
-	margin: 10px auto;
+.post,
+.page {
+	margin: 0;
 }
-/* Header */
 
-#header {
-	width: 698px;
-	height: 71px;
-	margin: 0 auto;
-	background: url("../images/2AD_top_site_graphic.gif") top;
-	background-repeat: no-repeat;
-	background-color: #fff;
+table {
+	margin: 0;
 }
-#masthead {
-	text-align: center;
-	width: 698px;
+.container {
+	width: 750px;
+	margin: 0px auto;
+}
+
+header.hiscal-header {
+	background-color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+header.hiscal-header a {
+	display: inline-block;
+}
+
+.hiscal-banner {
+	width: 750px;
 	border: 1px solid #431;
 	background-color: #fff;
 	background-image: url("../images/tank-backgrnd.gif");
 	background-repeat: repeat;
 	background-attachment: scroll;
 }
-#navigation {
-	position: relative;
-	float: left;
-	width: 148px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	border: 1px solid #431;
-	background-color: #fff;
-}
-#content {
-	float: left;
-	width: 518px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
-	padding: 10px;
-	border: 1px solid #431;
-	background-color: #fff;
-}
-#footer {
-	text-align: center;
-	clear: both;
-	width: 698px;
-	padding: 0px;
-	border: 1px solid #431;
-	background-color: #fff;
-}
-/* Masthead Styles */
-#masthead h1 {
+.hiscal-banner h1 {
 	color: #b71;
 }
-#masthead h3 {
+.hiscal-banner h3 {
 	color: #542;
 }
-/* Navigation Styles */
-#navigation ul {
-	list-style-type: none;
-	width: 100%;
-	display: block;
-	margin: 0;
-	padding: 0;
-}
-#navigation li {
-	display: block;
-	margin: 0;
-	padding: 0;
-	border: 1px solid #fff;
+
+.content {
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	background-color: #fff;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	padding-right: 15px;
 }
-#navigation a {
+.hiscal-cont1 {
+	margin-top: 10px;
+	padding-top: 10px;
+}
+.hiscal-cont1 a {
+	display: inline-block;
+}
+
+.hiscal-cont2 {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.hiscal-cont2 a {
 	color: #a60;
-	text-decoration: none;
-	display: block;
-	padding: 5px;
-	border: 1px solid #fff;
-	background-color: #fff;
+	font-weight: 700;
+	text-decoration: underline;
 }
-#navigation a:hover {
-	color: #fff;
-	text-decoration: none;
-	border: 1px solid #964;
-	background-color: #964;
+
+.hiscal-cont3 {
+	background-color: #808000;
+	height: 8px;
+}
+
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+
+.basefont {
+	font-size: 1rem;
+}
+.mb-1 {
+	margin-bottom: 5px;
+}
+.mb-2 {
+	margin-bottom: 10px;
+}
+.pb-1 {
+	padding-bottom: 5px;
+}
+.pb-2 {
+	padding-bottom: 10px;
+}
+.media {
+	display: block;
+}
+
+.media img {
+	padding: 5px;
+    border: 1px solid #964;
+}
+
+.hiscal-footer {
+	text-align: center;
+	clear: both;
+	border: 1px solid #431;
+	background-color: #fff;
 }
 /* Content Styles */
-#content h1,h2,h3,h4,h5,h6 {
+.content h1,h2,h3,h4,h5,h6 {
 	color: #c82;
 }
-#content img {
-	padding: 5px;
-	border: 1px solid #964;
+
+.table-3col table td {
+	width: 33.33%;
 }
+
+table .media {
+	display: table-cell;
+}
+
+.hiscal-list {
+	margin: 0;
+	padding-left: 25px;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+}
+
+.hiscal-note {
+	font-family: "Georgia", "Times New Roman", Times, serif;
+}
+.table-1bor {
+	border: 1px solid #ccc;
+}
+.table-1bor td {
+	border: 1px solid #ccc;
+	padding: 5px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Footer Styles */
 #footer p {
 	color: #808080;
@@ -130,4 +191,57 @@ a:hover {
 }
 .style_italic {
 	font-style: italic;
+}
+
+
+
+
+
+/* Extra Styles */
+
+.hiscal-footer ul.footer-menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	list-style: none;
+	color: #808080;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.hiscal-footer ul.footer-menu li {
+	padding-left: 6px;
+	padding-right: 6px;
+	position: relative;
+}
+
+.hiscal-footer ul.footer-menu li::after {
+	content: "|";
+	position: absolute;
+	right: -2px;
+}
+
+.hiscal-footer ul.footer-menu li:last-child::after {
+	display: none;
+}
+
+.search-down {
+	margin-bottom: 2em;
+}
+
+.hiscal-siteinfo {
+	text-align: center;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.hiscal-siteinfo a {
+	color: #AA6600;
+    text-decoration: underline;
 }

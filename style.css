@@ -478,7 +478,7 @@ hr {
 	background-color: #ccc;
 	border: 0;
 	height: 1px;
-	margin-bottom: 1.5em;
+	margin-bottom: 1em;
 }
 
 ul,
@@ -965,44 +965,4 @@ textarea {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1.5em;
-}
-/* Extra Styles */
-*, *::before, *::after {
-    box-sizing: content-box;
-}
-
-#footer ul.footer-menu {
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	list-style: none;
-	color: #808080;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	margin-left: 0px;
-	margin-right: 0px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
-}
-
-#footer ul.footer-menu li {
-	padding-left: 6px;
-	padding-right: 6px;
-	position: relative;
-}
-
-#footer ul.footer-menu li::after {
-	content: "|";
-	position: absolute;
-	right: -2px;
-}
-
-#footer ul.footer-menu li:last-child::after {
-	display: none;
-}
-
-.search-down {
-	margin-bottom: 2em;
 }

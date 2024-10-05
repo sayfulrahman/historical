@@ -10,16 +10,26 @@
  */
 
 ?>
-<!DOCTYPE html
-    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
-
-<!-- #BeginTemplate "master.dwt" -->
-
-<LINK REL="http://2ndarmoredhellonwheels.com/favicon.ico">
+<!doctype html>
+<html class="no-js" lang="">
 
 <head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
     <!-- #BeginEditable "doctitle" -->
     <?php wp_head(); ?>
     <!-- #EndEditable -->
@@ -27,15 +37,13 @@
 
 <body <?php body_class(); ?>>
     <!-- Begin Container -->
-    <div id="container">
+    <div class="container">
         <!-- Begin Header -->
-        <div>
+        <header class="hiscal-header center">
             <a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/2AD_top_site_graphic.gif" alt="2AD_top_site_graphic"></a>
-        </div>
+        </header>
         <!-- Begin Masthead -->
-        <div id="masthead">
-            <h1>
-                <font face="Verdana">A World War 2 Historical Site</font>
-            </h1>
+        <div class="hiscal-banner center">
+            <h1>A World War 2 Historical Site</h1>
         </div>
         <!-- End Masthead -->

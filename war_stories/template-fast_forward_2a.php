@@ -9,31 +9,12 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
-<h1 align="center">
-    <font face="Verdana">D-Day through St. Lo Breakout</font>
-</h1>
-<p>
-    <font face="Verdana">At Marston Bigot we only were given dehydrated foods,
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
+    <h1 class="center">D-Day through St. Lo Breakout</h1>
+    <p>
+        At Marston Bigot we only were given dehydrated foods,
         powdered eggs, orange marmalade, Spam and bread that crumbled easily, dessert
         was a pan cake that forgot to rise, sometimes we had lamb or goat meat stew it
         tasted awful but it did have some vegetables in it.. So during this stay at
@@ -44,17 +25,17 @@ get_header();
         he practically run us to death. No matter where we went to do any training we
         always had to police the area, in other words clean up the area that we used
         during this exercise or training. We always picked up the shell casings and they
-        were recycled by someone, we were told.</font>
-</p>
-<p>
-    <font face="Verdana">Time was going fast the big day was coming, we did not
+        were recycled by someone, we were told.
+    </p>
+    <p>
+        Time was going fast the big day was coming, we did not
         know what part we would have in the invasion of France. We were told one time we
         would be assigned to a combat unit before D-Day and also told that we would be
         replacements for those that were killed or wounded in the invasion. That we
-        would not take part in the initial D-Day landing.</font>
-</p>
-<p>
-    <font face="Verdana">On the morning of 6 June 1944 we were out doing our
+        would not take part in the initial D-Day landing.
+    </p>
+    <p>
+        On the morning of 6 June 1944 we were out doing our
         training and we could hear noise that sounded like a lot of airplanes in the
         sky, we looked up but did not see any , but we knew that they were coming and
         then they started flying overhead 100's of them some pulling gliders then others
@@ -63,10 +44,10 @@ get_header();
         ten days previously, and told not to be off the grounds under any circumstances,
         so we stayed close, no more taking a chance to go to a local dance or pub. We
         understood that we would all go over the channel together then be split up after
-        we were in France to go to different combat units as replacements.</font>
-</p>
-<p>
-    <font face="Verdana">On 12 June 1944 we loaded into army trucks and moved to
+        we were in France to go to different combat units as replacements.
+    </p>
+    <p>
+        On 12 June 1944 we loaded into army trucks and moved to
         the south coast of England, the next morning we loaded on landing craft before
         dawn there was a heavy mist almost rain and real damp and chilly, The channel
         was rough some men got seasick but we were all combat ready we had all our gear
@@ -81,20 +62,20 @@ get_header();
         from coming in to low, but they could still drop bombs from higher up, and they
         were doing that as we landed. There were blown up vehicles, graves were being
         put in and bodies were still being buried when we landed, it was not a good
-        sight.</font>
-</p>
-<p>
-    <font face="Verdana">All we could see was mass destruction everywhere all up
+        sight.
+    </p>
+    <p>
+        All we could see was mass destruction everywhere all up
         and down the beach. Some of the soldiers already there yelled to us things like
         you'll be sorry and where have you been.. We formed a line and gradually worked
         our way up to the top of the bluff overlooking Omaha beach, by that time it was
         close to getting dark and we were told to dig in. This was the hardest foxhole
         that I ever dug, it was almost like cement real hard ground, some gave up and
         did not get down that deep, my buddy and me worked a little longer an we both
-        were just able to lie down flat in the one we dug, it was a two man foxhole.</font>
-</p>
-<p>
-    <font face="Verdana">It was cold at night and damp and very noisy, we spending
+        were just able to lie down flat in the one we dug, it was a two man foxhole.
+    </p>
+    <p>
+        It was cold at night and damp and very noisy, we spending
         our first night in a combat situation. On one side we could look out and see the
         water in the English channel and on the other side large shelled out areas of
         land, it look like a huge hilly area with large craters all over where shells
@@ -103,10 +84,10 @@ get_header();
         strafing and bombing by the Germans and gunfire from the planes, it was like a
         lot fireworks going on. The strafing was at a higher altitude and could not
         cover much ground because of the balloons. Another thing was that our planes
-        were confronting them and driving them off..</font>
-</p>
-<p>
-    <font face="Verdana">The next morning we carried our duffel bags back about a
+        were confronting them and driving them off..
+    </p>
+    <p>
+        The next morning we carried our duffel bags back about a
         thousand feet or more, then loaded them on a truck, we kept our full field pack
         and rifles, the trucks would meet us later. We walked now for three days off and
         on at a slow pace, to reach a marshaling area. Then we would be assigned to a
@@ -118,10 +99,10 @@ get_header();
         cutting hay with a homemade cutting device by hand and it was fairly warm as it
         was in the afternoon. We did run across a few Germans soldiers that had been
         killed and as of now had not been picked up, we did not know it but this was
-        just a small preview of the things that were in store for us in the days ahead</font>
-</p>
-<p>
-    <font face="Verdana">We already were seeing hedge rows, we had heard a lot
+        just a small preview of the things that were in store for us in the days ahead
+    </p>
+    <p>
+        We already were seeing hedge rows, we had heard a lot
         about them in our training, they used these to divide their fields and also
         along the roadways. A hedgerow which were built 2500 or 3000 years ago, is a
         mound of dirt with hedge growth on top or bushes of some sort, about five foot
@@ -129,10 +110,10 @@ get_header();
         would have to spread the hedges in some cases and look out over the mound of
         dirt. The hedgerows had cut outs for vehicles to go through and for the farmer
         to drive their livestock through. In combat you could not go looking for these
-        cutouts.</font>
-</p>
-<p align="center">
-    <font face="Verdana">The hedgerows were almost impassable for
+        cutouts.
+    </p>
+    <p class="center">
+        The hedgerows were almost impassable for
         our tanks and other vehicles. You could cut a little bay or indention into the
         hedgerow to fit you body into, you used this position if you were to be stalled
         for any period of time this would also protect you from shells exploding on
@@ -144,6 +125,10 @@ get_header();
         with out tops made out of sand bags or any wood or other material were very
         risky when air burst were coming in as the burst an a little above ground zero
         and could be adjusted to different heights by the enemy. We will be having more
-        about this later in this writing.</font>
-    <?php
+        about this later in this writing.
+    </p>
+    <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
+<?php
 get_footer();
