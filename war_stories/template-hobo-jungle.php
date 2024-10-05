@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h2 class="center">Hoboes, men &amp; women served in the Armed Forces during WW 2</h2>
     <p><strong>HOBO Stuff and News:</strong></p>
     <p>

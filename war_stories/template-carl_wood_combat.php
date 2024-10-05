@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <p class="center"><b>
             Written By: Carl A. Wood, a member of
             Co. A., 82<sup>nd</sup> Reconnaissance Battalion, Company A, 2<sup>nd</sup>

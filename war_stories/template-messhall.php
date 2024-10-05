@@ -12,8 +12,9 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <p>To The Editors,<span style="float: right;">4 July 2004</span></p>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+    <div>
         I read with sadness of the death of Major General George S.
         Patton III and wish to express my condolences to his family. While he was well
         known in military circles as a superb combat commander there is another aspect
@@ -26,7 +27,7 @@ get_header();
         the highest standards possible on an inadequate budget and having to maintain
         a combat ready brigade in Germany as well.
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+    <div>
         We had a pretty good armored battalion except in one area,
         and that was a mess section that seem to believe that the only time they were
         required to serve edible food was only on Thanksgiving and Christmas. The rest
@@ -60,14 +61,14 @@ get_header();
         served with him in the 11th Armored Cavalry Regiment in Viet Nam. I knew that
         this sorry state of affairs wasn't going to be tolerated.
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">The next morning:</div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" class="center">
+    <div>The next morning:</div>
+    <div class="center">
         I walked in the mess hall and what did I see,
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" class="center">
+    <div class="center">
         I saw the new cooks peering at me!
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+    <div>
         In less than 24 hours Gen. Patton had solved the problem in
         a most satisfactory manner by firing everyone save one cook and bringing in
         new personnel. We never had lousy chow again for the remainder of the time I
@@ -75,20 +76,20 @@ get_header();
         as well my battalion commander didn't suffer any harmful effects either.
         Some things a battalion commander can't do. It takes a divisional commander.
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+    <div>
         I write this as a small token of my regard for this brave
         and outstanding American General. It is these things as well as possessing
         great combat skills that make the finest officers.
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+    <div>
         This former cavalry scout concludes with this. Major
         General Patton, may God bless you Sir and on behalf of the men of my unit
         thank you for the squared away k.p. job you did on that mess section. I know
         for a fact that everyone was appreciative for it.
     </div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">Wm. Ryan Murphy,</div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">Dunwoody, GA</div>
-    <div class="MsoNormal" style="MARGIN: 0in 0in 0pt">Former SGT, USA</div>
+    <div>Wm. Ryan Murphy,</div>
+    <div>Dunwoody, GA</div>
+    <div>Former SGT, USA</div>
     <p class="center">
         <strong>
             If you were ever in

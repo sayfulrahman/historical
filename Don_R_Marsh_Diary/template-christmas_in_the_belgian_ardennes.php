@@ -9,20 +9,9 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
 <h1 align="center">
     <font face="Arial">CHRISTMAS IN THE BELGIAN ARDENNES - 1944<br>
         <i>By Don R. Marsh</i>
@@ -94,5 +83,9 @@ get_header();
         without written<br>
         permission from the author, Don R. Marsh.<br>
         All rights remain the sole property of The Marsh Family Trust.</font>
+</p>
+        <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
     <?php
 get_footer();

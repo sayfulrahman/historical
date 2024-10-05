@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <div class="media center">
         <img src="<?php echo get_template_directory_uri(); ?>/images/Sgt%202nd%20armored%20divison%20eating%20on%20Gerry%20cans_MG_07381.jpg"
             width="466" height="576">
@@ -23,8 +24,7 @@ get_header();
     <h3 class="center">A collection of little known facts about military service.</h3>
     <blockquote>
         <p>
-            <strong>&quot;Its a
-                Fact&quot;: </strong>This page we explain some things that are
+            <strong>&quot;Its a Fact&quot;: </strong>This page we explain some things that are
             sometimes misconceptions or may be unknown about the military and the 2nd
             Armored Division. <strong>&quot;Its A Fact&quot;</strong> will set the record
             straight. We encourage viewers to send in <strong>&quot;Its a Fact&quot;
@@ -747,8 +747,8 @@ get_header();
         camps in Germany and even their own country.&quot; Its a Fact &quot;
     </p>
     <p>
-        <strong><u>General Gallieni:</u> He was a French General
-            in WW 1.</strong> Gen. Gallieni ordered gendarmes to flag down all the taxis and
+        <strong><u>General Gallieni:</u> He was a French General in WW 1.</strong> Gen. Gallieni ordered gendarmes to
+        flag down all the taxis and
         send them to the railroad station and the squares where French troops were
         waiting to go to Marne battlefield to fight and transport the troops to the
         front lines. There was a crucial shortage of troops at the front due to a train

@@ -12,7 +12,8 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
-    <h1 align="center">GI Humor</h1>
+    <?php the_content(); ?>
+    <h1 class="center">GI Humor</h1>
     <p>
         Here we try some humor, if for any reason you find something
         offensive please let us know stating the cause of your concern, this should be

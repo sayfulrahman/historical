@@ -9,20 +9,9 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
 <p class="MsoTitle" align="left" style="text-align:left;line-height:150%">
     <font face="Arial">DIARY
         ENTRY #5</font>
@@ -508,7 +497,8 @@ normal">
                 </o:p>
             </font>
         </span></i></p>
-&nbsp;
-
+<!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
 <?php
 get_footer();

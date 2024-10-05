@@ -9,20 +9,9 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
 <p class="MsoNormal">
     <font face="Arial"><b style="mso-bidi-font-weight:normal">DIARY ENTRY #7</b><span style="mso-spacerun: yes"><b
                 style="mso-bidi-font-weight:normal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
@@ -161,5 +150,8 @@ normal"><span style="font-size:10.0pt">
             <font face="Arial">The Marsh Family Trust.<o:p>
             </font>
         </span></i></p>
+        <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
 <?php
 get_footer();

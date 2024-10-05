@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h1 class="center">Notable Generals and Others...</h1>
     <p class="center">Historical facts about Generals, other distinguished soldiers<br>(from privates on up), and
         civilians who made a difference.</p>

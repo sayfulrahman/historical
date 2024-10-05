@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h1 class="center">D-Day through St. Lo Breakout Continued...</h1>
     <p>
         We walked in single file for about three days stopping at

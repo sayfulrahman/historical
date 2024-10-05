@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h2 class="center"><strong>Allied Action in Southern Holland</strong></h2>
     <p>
         The 2nd Armored Division was commanded by General Brooks

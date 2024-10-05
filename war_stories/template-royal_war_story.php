@@ -9,40 +9,22 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
-<h2 align="center">
-    <font face="Verdana">Our Last Obstacle</font>
-</h2>
-<p align="center"><strong>
-        <font face="Verdana">Submitted by Edward (Eddie) T.
-            Royal, 82nd Reconnaissance Battalion Company &quot;A&quot;</font>
-    </strong></p>
-<p>
-    <font face="Verdana">Many of the stories have recounted the battles of war, but
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
+    <h2 class="center">Our Last Obstacle</h2>
+    <p class="center"><strong>
+            Submitted by Edward (Eddie) T.
+            Royal, 82nd Reconnaissance Battalion Company &quot;A&quot;
+        </strong></p>
+    <p>
+        Many of the stories have recounted the battles of war, but
         this one is my recollections of the human side of the war. The SS were ruthless
-        bastards, but the older German people that I met had no faith in Hitler’s war.</font>
-</p>
-<p>
-    <font face="Verdana">By mid April, of 1945, &quot;Hells on Wheels was advancing
+        bastards, but the older German people that I met had no faith in Hitler’s war.
+    </p>
+    <p>
+        By mid April, of 1945, &quot;Hells on Wheels was advancing
         far out ahead of the other American forces. Our last obstacle was taking over
         Magdeburg and crossing the Elbe River. We had occupied a portion of the city,
         but the German forces were so strong that we could not advance any more. So the
@@ -55,10 +37,10 @@ get_header();
         entered the day after the bombing. We went down the city’s streets with hardly
         any resistance. And the Germans were right close because you could hear them
         walking on the sidewalks on the next block. They always had steel in their shoes
-        so you could hear them walking from a long ways.</font>
-</p>
-<p>
-    <font face="Verdana">When we would enter the cities the German people would
+        so you could hear them walking from a long ways.
+    </p>
+    <p>
+        When we would enter the cities the German people would
         scorn you, but when we would leave they would have tears in their eyes. Old
         German people would be sad because they didn’t know who would be coming in
         next. That was one thing about our generals they told us &quot;buddy you treat
@@ -70,10 +52,10 @@ get_header();
         would happen to them. Especially if the Russians were coming in, they were bad
         to them. In Berlin, I can remember they told us many of the Germans committed
         suicide when they knew the Russians were entering the city. They didn’t want
-        to give up to the Russians. The Germans would rather kill themselves.</font>
-</p>
-<p>
-    <font face="Verdana">I think it was on the second night of guard duty a German
+        to give up to the Russians. The Germans would rather kill themselves.
+    </p>
+    <p>
+        I think it was on the second night of guard duty a German
         woman came and tapped me on the arm and invited me into her house to get out of
         the rain and cold. I was leaning against a big thick doorway with my rifle in my
         hand and when she touch me on my shoulder I swung around with that rifle. Here
@@ -96,10 +78,10 @@ get_header();
         husband if she could give me this little bit of cognac that they had in a cedar
         chest. He told her that was all right too, so I drank that damn thing. My buddy
         and I then stayed in the shot out second floor that at least kept us in out of
-        the rain.</font>
-</p>
-<p>
-    <font face="Verdana">A few days later we borrowed an amphibious jeep that we
+        the rain.
+    </p>
+    <p>
+        A few days later we borrowed an amphibious jeep that we
         drove to a stocked German army warehouse that stood just west of the Elbe River.
         We wanted to retrieve food for that old German couple that had been so kind to
         us. As we went around the front of the building the Germans began firing at us
@@ -107,6 +89,10 @@ get_header();
         a window and backed the jeep to the window. We made off with cases of canned
         goods that we took back and stacked in the old German couple’s empty kitchen.
         I’ll never forget the tears of gratitude streaming down that old German lady’s
-        face.</font>
-    <?php
+        face.
+    </p>
+    <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
+<?php
 get_footer();

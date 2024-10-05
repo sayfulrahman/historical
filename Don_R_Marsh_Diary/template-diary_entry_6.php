@@ -9,20 +9,9 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
 <p class="MsoTitle" align="left" style="text-align:left">
     <font face="Arial">DIARY ENTRY #6</font>
 </p>
@@ -457,6 +446,8 @@ font-style:normal"> American units on the stone memorial plaque are the 2<sup>nd
             </o:p>
         </span></font>
 </p>
-&nbsp;
+<!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
 <?php
 get_footer();

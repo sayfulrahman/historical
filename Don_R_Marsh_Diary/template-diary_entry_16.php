@@ -9,20 +9,9 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
 <h1 style="MARGIN: 0in 0in 0pt">
     <font size="3" face="Arial">DIARY ENTRY #16</font>
 </h1>
@@ -623,5 +612,9 @@ get_header();
                 </o:p>
             </font>
         </span></i>
+</p>
+        <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
     <?php
 get_footer();

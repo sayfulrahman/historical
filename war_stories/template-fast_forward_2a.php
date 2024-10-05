@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h1 class="center">D-Day through St. Lo Breakout</h1>
     <p>
         At Marston Bigot we only were given dehydrated foods,

@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <table dir="ltr" cellpadding="0" cellspacing="0" width="100%">
         <tr>
             <!--msnavigation-->

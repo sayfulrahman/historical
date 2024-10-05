@@ -9,35 +9,19 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style4 {
-    text-align: left;
-}
-</style>
-<!-- #EndEditable -->
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
-<h2 align="center">
-    <font face="Verdana">Attack on the Town of Magdeburg, Germany</font>
-</h2>
-<p align="center">
-    <font face="Verdana"><b>By: Joseph Puma, I had the honor of
-            serving with the 82</b><sup><b>nd</b></sup><b> recon. Co. D from 1942-1945.</b></font>
-</p>
-<p>
-    <font face="Verdana">On 12 April 1045 Co. D under the command of Capt. George
+<!-- Begin Content -->
+<div class="content">
+    <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
+    <h2 class="center">
+        Attack on the Town of Magdeburg, Germany
+    </h2>
+    <p class="center">
+        <b>By: Joseph Puma, I had the honor of serving with the 82</b><sup><b>nd</b></sup><b> recon. Co. D from
+            1942-1945.</b>
+    </p>
+    <p>
+        On 12 April 1045 Co. D under the command of Capt. George
         J. Karl was leading the attack on the town of Magdeburg, Germany (on the Elbe
         River) we were met with small arms fire plus one of our guys was wounded. His
         name was Pvt. Picolene (not sure spelling) He was in headquarters platoon. Upon
@@ -58,10 +42,10 @@ get_header();
         surprise they started coming out , we could not believe how many there was. We
         counted twenty-one of them. Put. Paulman had a carbine, Jerry had a Tommy gun
         and I had M1 rifle . We lined them up and I asked Put Paulman to give them a
-        search. Satisfied that they had no weapons.</font>
-</p>
-<p>
-    <font face="Verdana">I was a bit of a wheeler dealer in those days and I
+        search. Satisfied that they had no weapons.
+    </p>
+    <p>
+        I was a bit of a wheeler dealer in those days and I
         thought they left all the good stuff (pistols/cameras) things that would bring a
         good price in the rear areas down in the cellar. So I asked Jerry and Paulman to
         take the prisoners back to the C.P. They asked me what I was going to do. And I
@@ -76,6 +60,10 @@ get_header();
         rider back to battalion with the map. He said the map would save a lot of lives.
         He said &quot;Puma ill see that you get a decoration &quot;. Well its been a
         long time since this happen and I never got that decoration that Capt. Karl
-        promised. But knowing what I did even saving one life was thanks enough.</font>
-    <?php
+        promised. But knowing what I did even saving one life was thanks enough.
+    </p>
+    <!-- #EndEditable "content" -->
+</div>
+<!-- End Content -->
+<?php
 get_footer();

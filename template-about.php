@@ -12,10 +12,10 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h2 class="center">Site Information</h2>
     <div class="media">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/tank44.gif" alt="82nd Recon Tank" hspace="5"
-            vspace="5" width="136" height="102">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/tank44.gif" alt="82nd Recon Tank" hspace="5" vspace="5" width="136" height="102">
     </div>
     <h2><b><u>ABOUT THIS SITE</u></b></h2>
     <p>
@@ -166,7 +166,7 @@ get_header();
     <p>
         We urge all veterans of
         all wars to relate experiences to their family, children, grandchildren, etc.
-        &quot;Tomorrow may be to late&quot; one such letter;  Email received May 2001--<u>Dear
+        &quot;Tomorrow may be to late&quot; one such letter; Email received May 2001--<u>Dear
             Howard: </u>I saw a story about you on tv, last night I believe. I
         really am proud to be the daughter of a &quot;now deceased&quot; Army Vet. My
         father SFC Elmer M. Bailey was in the Army for a good 25 years. I really
@@ -205,7 +205,8 @@ get_header();
     <p><span style="background-color: #FFFF00">
             The above is the experiences of two daughters of WW 2 veterans, with different
             circumstances, both had the will to find out all about their fathers experiences
-            in the service, each story with a different ending. Check <a href="_storage/armoredforces/carla.html" target="_blank">Carla's Page</a> see how she did the research.
+            in the service, each story with a different ending. Check <a href="_storage/armoredforces/carla.html"
+                target="_blank">Carla's Page</a> see how she did the research.
         </span></p>
     <h3 class="center"><b>Civilian Conservation Corps (CCC)</b></h3>
     <p class="center">

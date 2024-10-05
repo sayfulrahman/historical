@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h2>War Stories</h2>
     <div class="media center">
         <img border="0" src="<?php echo get_template_directory_uri(); ?>/images/3_soldiers_2ndAD_drawing.gif"
