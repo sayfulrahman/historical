@@ -185,3 +185,16 @@ if ( defined( 'JETPACK__VERSION' ) ) {
  */
 require get_template_directory() . '/metabox/CMB2/init.php';
 require get_template_directory() . '/metabox/CMB2/historical-functions.php';
+
+add_filter('the_content', 'remove_br_from_p_tags_regex', 20);
+
+function remove_br_from_p_tags_regex($content) {
+    // Use a callback to process only <p> tags
+    $content = preg_replace_callback('/<p(.*?)>(.*?)<\/p>/is', function($matches) {
+        // Remove <br> tags from the content inside <p> tags
+        $cleaned_content = str_replace(array('<br>', '<br />'), '', $matches[2]);
+        return '<p' . $matches[1] . '>' . $cleaned_content . '</p>';
+    }, $content);
+
+    return $content;
+}

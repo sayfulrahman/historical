@@ -9,27 +9,14 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
 <!-- Begin Content -->
-<div id="content" class="auto-style3" style="width: 664px">
+<div class="content">
     <!-- #BeginEditable "content" -->
     <h2>News and Interest</h2>
 
     <p align="center">
-        <font face="Verdana"><img border="0" src="<?php echo get_template_directory_uri(); ?>/images/Major-General_G.S._patton_1941_drawing.gif"
+        <font face="Verdana"><img border="0"
+                src="<?php echo get_template_directory_uri(); ?>/images/Major-General_G.S._patton_1941_drawing.gif"
                 alt="Major-General George S. Patton June 1941" width="327" height="441"></font>
     </p>
     <p align="center">
@@ -85,7 +72,9 @@ get_header();
                     claims.&nbsp;</font>
             </u></b></p>
     <p>
-        <font face="Verdana"><img border="0" src="<?php echo get_template_directory_uri(); ?>/images/BELGIAN_CITATION.jpg" width="559" height="726"></font>
+        <font face="Verdana"><img border="0"
+                src="<?php echo get_template_directory_uri(); ?>/images/BELGIAN_CITATION.jpg" width="559" height="726">
+        </font>
     </p>
     <p>
         <font face="Verdana">End Belgium Decree.&nbsp;</font>
@@ -143,7 +132,9 @@ get_header();
             remaining Elbe bridgehead, or whether it must wait until the area west of the
             river is cleaned out an the 9th Army is massed in straight along its entire
             length. ( Please note a 41st infantryman who was in the action described above
-            in this article has his story of this action on the 41st AR site)</font><!-- #EndEditable "content" -->
+            in this article has his story of this action on the 41st AR site)</font>
+    </p>
+    <!-- #EndEditable "content" -->
 </div>
 <!-- End Content -->
 <?php

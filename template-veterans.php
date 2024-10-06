@@ -9,22 +9,8 @@
 
 get_header();
 ?>
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-
-.auto-style2 {
-    color: #AA6600;
-    text-decoration: underline;
-}
-
-.auto-style3 {
-    margin-left: 6px;
-}
-</style>
 <!-- Begin Content -->
-<div id="content" class="auto-style3" style="width: 664px">
+<div class="content">
     <!-- #BeginEditable "content" -->
     <h2>Veterans Service Directory</h2>
     <p align="center"><b>
@@ -702,9 +688,9 @@ get_header();
         <font face="Verdana"><strong>Notice: </strong>In the past we have provided
             assistance in finding of records and information. We can no longer do this, our
             schedule will not allow us the time needed to do this job right. Howard Swonger</font>
-        <!-- #EndEditable "content" -->
+    </p>
+    <!-- #EndEditable "content" -->
 </div>
-<!-- End Content -->
 <!-- End Content -->
 <?php
 get_footer();
