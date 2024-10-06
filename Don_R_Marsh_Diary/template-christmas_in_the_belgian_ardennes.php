@@ -12,13 +12,10 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
-<h1 align="center">
-    <font face="Arial">CHRISTMAS IN THE BELGIAN ARDENNES - 1944<br>
-        <i>By Don R. Marsh</i>
-    </font>
-</h1>
-<p align="center">
-    <font face="Arial">The men cursed, machines and weapons of war failed to function<br>
+    <?php the_content(); ?>
+    <h1 class="center">CHRISTMAS IN THE BELGIAN ARDENNES - 1944<br><i>By Don R. Marsh</i></h1>
+    <p class="center">
+        The men cursed, machines and weapons of war failed to function<br>
         <i><b>The Lord is my shepherd,<br>
             </b></i>properly, or not at all; as ice coated each of them. The cold penetrated
         layers<br>
@@ -61,10 +58,9 @@ get_header();
         the number of casualties of wounded and loss of life, as well as material. Their
         ruthless surprise attack had been brought to an abrupt halt.<br>
         <i><b>And I will dwell in the house of the Lord forever. Psalm 23</b></i>
-    </font>
-</p>
-<p align="center">
-    <font face="Arial">I can still close my eyes and see the Sherman tank with the
+    </p>
+    <p class="center">
+        I can still close my eyes and see the Sherman tank with the
         name &quot;Cutbreak&quot; painted on her side manned by the crew of Phil Reisler,
         Phil Geidel, Del Signore and Virgle (Bazooka) Appleton. The gang of us including
         Charlie Boss, Doug Donahue. Joe Elfer, Walter Hogan, Larry Hull, Earlie J.
@@ -72,20 +68,20 @@ get_header();
         Bill Veno and Clovis Waldroop are all there to greet them. Someday we will all
         meet once again in the ether land of hereafter and when we do, we'll claim that
         we have already spent our designated time in that white hell and want passes to
-        go directly to Odin's Valhalla.</font>
-</p>
-<p align="center">
-    <font face="Arial">This article previously appeared in the 3AD Association
-        Newsletter, December 2003 issue.</font>
-</p>
-<p align="center">
-    <font face="Arial">Publication or reproduction, in part or whole, is prohibited
+        go directly to Odin's Valhalla.
+    </p>
+    <p class="center">
+        This article previously appeared in the 3AD Association
+        Newsletter, December 2003 issue.
+    </p>
+    <p class="center">
+        Publication or reproduction, in part or whole, is prohibited
         without written<br>
         permission from the author, Don R. Marsh.<br>
-        All rights remain the sole property of The Marsh Family Trust.</font>
-</p>
-        <!-- #EndEditable "content" -->
+        All rights remain the sole property of The Marsh Family Trust.
+    </p>
+    <!-- #EndEditable "content" -->
 </div>
 <!-- End Content -->
-    <?php
+<?php
 get_footer();

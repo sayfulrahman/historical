@@ -12,23 +12,13 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
-<p><b>
-        <font face="Arial">DIARY ENTRY # 11</font>
-    </b></p>
-<h1 align="center">
-    <font face="Arial"><br>
-        THE FORTUNES OF WAR</font>
-</h1>
-<p align="center"><b><i>
-            <font face="Arial">by Don R. Marsh</font>
-        </i></b></p>
-<p>
-    <font face="Arial"><br>
-        28 December 1944<br>
-        Forzee-Mont Gauthier, Belgium</font>
-</p>
-<p>
-    <font face="Arial">Winter extremes, late December 1944 - in less than sixty minutes, I went from
+    <?php the_content(); ?>
+    <p><b>DIARY ENTRY # 11</b></p>
+    <h1 class="center"><br>THE FORTUNES OF WAR</h1>
+    <p class="center"><b><i>by Don R. Marsh</i></b></p>
+    <p><br>28 December 1944<br>Forzee-Mont Gauthier, Belgium</p>
+    <p>
+        Winter extremes, late December 1944 - in less than sixty minutes, I went from
         the passionate embrace and warm bed of a young Belgian war widow to being sent
         back out into the subzero temperatures -- without being given a choice. In a
         cruel twist of fate one minute I was in a soldier's paradise and the next minute
@@ -38,19 +28,19 @@ get_header();
         rationalize unexpected reversals of circumstances beyond a person's control. But
         I am getting ahead of myself as I have to roll back the clock to 16 December
         1944. At that time, we were holed up in Baseweiler, Germany, defending the Roer
-        River sector of the Ninth Army.</font>
-</p>
-<p>
-    <font face="Arial">The World War Two Ardennes Campaign, better known as the Battle of the Bulge,
+        River sector of the Ninth Army.
+    </p>
+    <p>
+        The World War Two Ardennes Campaign, better known as the Battle of the Bulge,
         or The White Hell, to the GIs who fought in it, began at dawn on 16 December
         1944; miles to our south in the Eiffel Mountains of the Ardennes Forest,
         Belgium. Our division, the US 2nd Armored Division, had been assigned to a
         defensive area on the west bank of the Roer River, north of Aachen, Germany,
         also known to historians as Aix-la-Chapelle, the ancient French gateway to the
-        Rhine Province of Germany.</font>
-</p>
-<p>
-    <font face="Arial">When the German blitzkrieg broke out of the mists and overran the thin line
+        Rhine Province of Germany.
+    </p>
+    <p>
+        When the German blitzkrieg broke out of the mists and overran the thin line
         of green troops in the Ardennes Forest to our south, their ultimate goal was to
         capture the Belgium port city of Antwerp. If they had succeeded they would have
         cut our supply lines. In doing so, total chaos and turmoil would have ensued.
@@ -60,30 +50,30 @@ get_header();
         the west and rear. Pandemonium had set in as they fled. While Eisenhower and
         Bradley's higher headquarters were slow to react, commanders in the First, Third
         and Ninth Armies had taken steps to begin alerting troops for a massive troop
-        redeployment and movement to plug the widening holes in the line.</font>
-</p>
-<p>
-    <font face="Arial">The 2nd Armored Division was placed on a one hour Standby alert. We were
+        redeployment and movement to plug the widening holes in the line.
+    </p>
+    <p>
+        The 2nd Armored Division was placed on a one hour Standby alert. We were
         given orders to prepare to withdraw from our Ninth Army positions and assemble
         in a final destination area near Les Avins, Belgium, estimated 100 miles in
         total blackout maintaining radio silence. Upon arriving we would wait for new
         orders from General Omar Bradley. After a frustrating five day delay, the orders
         were sent on the night of 21 December 1944 to &quot;mount up and move out&quot;
         to begin the long cold night march. That was the exact moment our nightmare was
-        to begin.</font>
-</p>
-<p>
-    <font face="Arial">The crew, comprised of Larry Hull, Doug Donahue, John Yahne and Walter Hogan,
+        to begin.
+    </p>
+    <p>
+        The crew, comprised of Larry Hull, Doug Donahue, John Yahne and Walter Hogan,
         huddled together among the reels of field wire under a tarpaulin in the back of
         my vehicle that had neither a windshield nor roof over the cab with only two
         canvas covered bucket seats for me, as the driver, and our crew chief, Bill Veno.
         Bill was wrapped from head to toe with what had been my German down comforter to
         ward off the cold freezing rain that had begun to fall as our column snaked out
         of town. Veno's incessant snoring became so loud that I finally punched him. He
-        simply rolled over and continued snoring.</font>
-</p>
-<p>
-    <font face="Arial">With the strict blackout of any type of vehicle illumination, all I could do
+        simply rolled over and continued snoring.
+    </p>
+    <p>
+        With the strict blackout of any type of vehicle illumination, all I could do
         was to stare straight head at the twin small red tails lights of Staff Sergeant
         Tom Speirs' radio half track and more or less function by rote. All the time
         trying to maintain the desired five yard interval between vehicles. Driving a
@@ -92,10 +82,10 @@ get_header();
         I attempted to maintain the proper distance between our vehicles. The monotony
         and fatigue soon brought on a hypnotic effect as I began losing my
         concentration. The snoring of Bill Veno did not help matters and had a reversal
-        effect on my determination to stay awake.</font>
-</p>
-<p>
-    <font face="Arial">Somewhere in the darkness of the suburbs of Aachen, the convoy was into the
+        effect on my determination to stay awake.
+    </p>
+    <p>
+        Somewhere in the darkness of the suburbs of Aachen, the convoy was into the
         accordion routine of stop, pause and go as other columns merged onto the main
         road headed south. Our sibling 3rd Armored Division, under the command of our
         former boss, Major General Maurice Rose, was now on this same road from Stolberg,
@@ -117,10 +107,10 @@ get_header();
         to an infantry unit. Threats of that nature always received my attention. Like
         everything else, in time, he got over it - and so did I. After we connected
         with the tail end of our column I had &quot;lost&quot;, I stood up to stretch
-        and found my overcoat ice covered and frozen in my sitting position.</font>
-</p>
-<p>
-    <font face="Arial">Dawn broke in the higher elevation and it was near zero or below as our
+        and found my overcoat ice covered and frozen in my sitting position.
+    </p>
+    <p>
+        Dawn broke in the higher elevation and it was near zero or below as our
         tracked vehicles slid off the dangerous mountain passes holding up traffic until
         they were retrieved. The ice covered two lane serpentine secondary roads became
         a real challenge to maneuver in the tight &quot;S&quot; turns in both ascending
@@ -136,19 +126,19 @@ get_header();
         with smiles nodded their heads in acknowledgment without understanding a word he
         said, but they could read it in his face. By this time, this had been the only
         thing warm we had consumed in12 hours and the hot water was a welcome gift from
-        these heaven sent angels of mercy.</font>
-</p>
-<p>
-    <font face="Arial">During the whole trip no one spelled me behind the wheel and I drove it
+        these heaven sent angels of mercy.
+    </p>
+    <p>
+        During the whole trip no one spelled me behind the wheel and I drove it
         alone. Days and nights all ran together, as well as events in rapidly moving
         from place to place in that hectic week that followed as we met the spearhead of
         the German attack on December 22-23rd. This action stopped their deepest
         penetration of their offensive at Ciney in the famous Celles Pocket and blocked
         them from reaching the Meuse River at Dinant. The German 2nd Panzer Division was
-        totally destroyed here.</font>
-</p>
-<p>
-    <font face="Arial">The deep snow, thick pine forests with intensely frigid cold days and
+        totally destroyed here.
+    </p>
+    <p>
+        The deep snow, thick pine forests with intensely frigid cold days and
         especially the nights without let up were among the hardships I recall. Shelter
         from the elements in the forests were impossible to find as we moved from one
         hot spot to another being shuttled back and forth blocking the probing attacks
@@ -169,10 +159,10 @@ get_header();
         was a mistake then and I still do today. Instead, he should have traveled to the
         nearby Margraten American Military Cemetery in the Netherlands and to our
         American Military Cemetery in Luxembourg to pay respect to our own American
-        fallen heroes who lie there.</font>
-</p>
-<p>
-    <font face="Arial">Christmas Day found us in the vicinity of Rochefort and Humaine. It was just
+        fallen heroes who lie there.
+    </p>
+    <p>
+        Christmas Day found us in the vicinity of Rochefort and Humaine. It was just
         another day in combat and one more cold day in the forest which the news
         correspondents properly labeled &quot;The White Hell&quot; as it turned out to
         be for all involved on both sides. We were attached to Lt. Col. Hugh R.
@@ -190,10 +180,10 @@ get_header();
         potatoes and gravy congealed immediately upon reaching our metal mess kits in
         the out-of-doors weather, we devoured the turkey and holiday festive food. Our
         division was spread among the neighboring hamlets and small villages to find
-        adequate winters quarters to obtain relief from the extreme cold temperatures.</font>
-</p>
-<p>
-    <font face="Arial">Our wire crew found a small cottage with a lone single occupant, a young war
+        adequate winters quarters to obtain relief from the extreme cold temperatures.
+    </p>
+    <p>
+        Our wire crew found a small cottage with a lone single occupant, a young war
         widow in her mid to late thirties. Fortunately, my two years of French class in
         high school gave me the opportunity to converse with her, aided by her limited
         knowledge of English. However, my old French teacher, James Hancock, would have
@@ -202,10 +192,10 @@ get_header();
         ability to carry on a conversation with the young lady. She gave us full use of
         her house and also offered to heat and serve our ten-in-one rations, which we
         shared with her. I exchanged daily banter with her much to her amusement and
-        what I assumed to be mutual pleasure.</font>
-</p>
-<p>
-    <font face="Arial">It was in the evening of New Year's Eve, December 31st, while she was
+        what I assumed to be mutual pleasure.
+    </p>
+    <p>
+        It was in the evening of New Year's Eve, December 31st, while she was
         standing over the kitchen wood burning stove, with her back to me, that I came
         up behind her and kissed her on the neck; putting my arms around her waist in a
         calculated bold act of flirtation as old as time. She spun in my arms to face me
@@ -213,10 +203,10 @@ get_header();
         interested. My play for her worked and the game was on! She pressed her body
         against mine as we shared our first long lingering kiss. I was certain she could
         feel my erection. Words were translated and she readily agreed that I would
-        share her bed that night.</font>
-</p>
-<p>
-    <font face="Arial">The rest of the crew, while not understanding French, knew what I was up to
+        share her bed that night.
+    </p>
+    <p>
+        The rest of the crew, while not understanding French, knew what I was up to
         had laid out their bedrolls in the other part of the house as she later led me
         upstairs to her bedroom. There she had placed two towel wrapped hot bricks at
         the foot of the bed for us as foot warmers under the down comforter. The lust
@@ -224,10 +214,10 @@ get_header();
         Having both reached satisfaction, at this point, I relaxed and had thoughts of
         going to sleep, only to hear her softly ask, &quot;Encore?&quot; Hell, yes, I
         wouldn't mind seconds, so we accommodated each other's mutual hot passions a
-        second time.</font>
-</p>
-<p>
-    <font face="Arial">In the interlude passage of time that lapsed before midnight, there was a tap
+        second time.
+    </p>
+    <p>
+        In the interlude passage of time that lapsed before midnight, there was a tap
         on the bedroom door and I heard Bill Veno's voice say, &quot;Marsh, Moll
         (Lieutenant. CCA Communications Officer) wants you down in the kitchen, now. Get
         a move on.&quot; At that moment as I drew on my clothes and carried my boots
@@ -242,17 +232,17 @@ get_header();
         wishes! Being foxhole buddies, Hull and I always shared whatever we had between
         us without any hesitation or qualms. Now, almost sixty years later, when we
         exchange phone calls, invariably one of us will say to the other, &quot;Hey,
-        encore!&quot; and draw a hearty laugh from the other.</font>
-</p>
-<p>
-    <font face="Arial">The three of us and Moll departed in two vehicles just before midnight. One
+        encore!&quot; and draw a hearty laugh from the other.
+    </p>
+    <p>
+        The three of us and Moll departed in two vehicles just before midnight. One
         was my ton and one half converted personnel carrier/wire vehicle and Veno's
         jeep. It was a brilliant moonlit night, clear and biting cold after the snow had
         stopped falling that night. We tied off a line from a new reel and started down
-        a strange road leading to the coldest night I have ever spent in my lifetime.</font>
-</p>
-<p>
-    <font face="Arial">Having been born and raised in the northern climate of the state of
+        a strange road leading to the coldest night I have ever spent in my lifetime.
+    </p>
+    <p>
+        Having been born and raised in the northern climate of the state of
         Wisconsin, I mistakenly believed that I could adjust to any type of cold
         weather; however, I never gave any consideration to these consequential extreme
         circumstances and exposure time. We had only proceeded two miles or so up the
@@ -269,10 +259,10 @@ get_header();
         the jeep around to head back to the CP. He had pulled rank and left us
         shorthanded while the other three men were sleeping back at the cottage when we
         could have used their help in what was to come. They say &quot;Rank hath its
-        privileges&quot; and he sure exercised one of his!</font>
-</p>
-<p>
-    <font face="Arial">With Veno and Doug walking behind, I drove mainly on the left shoulder of the
+        privileges&quot; and he sure exercised one of his!
+    </p>
+    <p>
+        With Veno and Doug walking behind, I drove mainly on the left shoulder of the
         narrow road, hoping I would not strike a hidden mine. As I approached each rise
         in the road to where I could peer over the crest, I knew full well anyone out
         there could also see me. Then it would be too late, so the apprehension had my
@@ -298,28 +288,28 @@ get_header();
         exhausted and lacked the strength to reach a branch. Time had taken its toll on
         me as well The long hours seated in one position in this zero temperature had
         nearly placed me in frostbite danger. Both my feet were numb and I had no
-        feeling in my fingers and hands. I was in dire straits.</font>
-</p>
-<p>
-    <font face="Arial">To make matters worse, I urgently needed to void my bladder and faced wetting
+        feeling in my fingers and hands. I was in dire straits.
+    </p>
+    <p>
+        To make matters worse, I urgently needed to void my bladder and faced wetting
         my pants, which would only make matters much worse. My call for help was
         answered by my good friend, Doug Donahue, who offered to unbutton my overcoat,
         two pairs of wool trousers and my long handle underwear; to then delicately
         reach in with his cold fingers and expose my plumbing to where I emptied the
         fully extended bladder. A friend in need is a true friend indeed! After
         replacing the member and buttoning up my clothing for me, they both assisted me
-        in walking about and flexing my hands to regain the feeling in both.</font>
-</p>
-<p>
-    <font face="Arial">Now the three of us tackled the tree problem with Doug and I boasting Veno
+        in walking about and flexing my hands to regain the feeling in both.
+    </p>
+    <p>
+        Now the three of us tackled the tree problem with Doug and I boasting Veno
         high enough to reach a branch and pull the line over it and making a tie-off at
         the base of the tree. Next was to cross the road and throw the line over the
         church steeple - easier said than done. Finally, after numerous repeated
         attempts they succeeded and made the splice, drew the line high and tight across
-        the road and we continued on - punch drunk with exhaustion.</font>
-</p>
-<p>
-    <font face="Arial">Other than that group of half dozen GIs at that chateau we never saw another
+        the road and we continued on - punch drunk with exhaustion.
+    </p>
+    <p>
+        Other than that group of half dozen GIs at that chateau we never saw another
         living person all that night, but always had the feeling hidden eyes were
         following us at various times. Dawn brought us to the general area where we
         expected to find the 84th Infantry Division. And, did we ever! They probably
@@ -335,10 +325,10 @@ get_header();
         wearing the red circle shoulder patch with a white silhouette of an axe imbedded
         in a log. Their nick name was &quot;The Railsplitters.&quot; This was the place.
         After answering the &quot;Who's Babe Ruth&quot; type of questions, we were
-        directed to where to find the CP.</font>
-</p>
-<p>
-    <font face="Arial">We noticed that this road block had the trees on both sides of the curve in
+        directed to where to find the CP.
+    </p>
+    <p>
+        We noticed that this road block had the trees on both sides of the curve in
         the road ready to blow with blocks of TNT wired to the trees with short fuses.
         We dropped the line at the CP switchboard and immediately headed for their mess
         truck for hot coffee. Mission accomplished. Returning to the switchboard
@@ -351,16 +341,16 @@ get_header();
         what transpired in that brief 24 hour period was an experience of life and among
         the fortunes of war.<br>
         An edited and condensed version of this recollection previously appeared in the
-        2n Armored Division Association Bulletin in Issue #3 July-Sept 1981.</font>
-</p>
-<p align="center">
-    <font face="Arial">Publication or reproduction, in part or whole, is prohibited
+        2n Armored Division Association Bulletin in Issue #3 July-Sept 1981.
+    </p>
+    <p class="center">
+        Publication or reproduction, in part or whole, is prohibited
         without written permission from the author, Don R. Marsh. All right remain the
         sole property of<br>
-        The Marsh Family Trust.</font>
-</p>
-        <!-- #EndEditable "content" -->
+        The Marsh Family Trust.
+    </p>
+    <!-- #EndEditable "content" -->
 </div>
 <!-- End Content -->
-    <?php
+<?php
 get_footer();

@@ -12,38 +12,29 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
-<p class="MsoNormal">
-    <font face="Arial"><b style="mso-bidi-font-weight:normal">DIARY ENTRY #7</b><span style="mso-spacerun: yes"><b
+    <?php the_content(); ?>
+    <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">DIARY ENTRY #7</b><span style="mso-spacerun: yes"><b
                 style="mso-bidi-font-weight:normal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
-    </font>
-</p>
-<h1 align="center"><b style="mso-bidi-font-weight:normal">
-        <font face="Arial"><span style="mso-spacerun: yes">&nbsp;</span>THE
-            STING<o:p>
-            </o:p>
-        </font>
-    </b></h1>
-<p class="MsoNormal" align="left">
-    <font face="Arial"><b style="mso-bidi-font-weight:
-normal">&nbsp;</b>&nbsp;&nbsp;&nbsp;<b style="mso-bidi-font-weight: normal"> </b>Why
-        is it around our house after consuming the typical family Thanksgiving feast
-        that the conversation invariably turns to a discussion of leaner days that
-        occurred long ago? Somehow or other, we each like to recall our own personal
-        experiences of past years. So it seems inevitable that long before the desert is
-        being served that someone at the table has to needle me about my old “brown
-        shoe” army career and the field rations at the time. When one hears the
-        expression “Army Chow” do I think of the Mess Sergeant nicknamed “Mama”
-        Gosher and his idiosyncrasies; First Cook Al Jordan’s green apple pies; the
-        Spam, mutton stews, chipped beef on toast (better known as Shit on a Shingle to
-        the troops)? I cannot honestly think it is anyone of them in particular, but
-        taken together they represent the cuisine served during the war years for me of
-        1943-45 while serving as a member of the US 2nd Armored Division in the European
-        Campaign.&nbsp;<o:p>
-        </o:p>
-    </font>
-</p>
-<p class="MsoNormal" style="text-indent:.5in" align="left">
-    <font face="Arial">Strangely enough, I
+
+    </p>
+    <h1 class="center"><b>THE STING</b></h1>
+    <p>Why is it around our house after consuming the typical family Thanksgiving feast
+            that the conversation invariably turns to a discussion of leaner days that
+            occurred long ago? Somehow or other, we each like to recall our own personal
+            experiences of past years. So it seems inevitable that long before the desert is
+            being served that someone at the table has to needle me about my old “brown
+            shoe” army career and the field rations at the time. When one hears the
+            expression “Army Chow” do I think of the Mess Sergeant nicknamed “Mama”
+            Gosher and his idiosyncrasies; First Cook Al Jordan’s green apple pies; the
+            Spam, mutton stews, chipped beef on toast (better known as Shit on a Shingle to
+            the troops)? I cannot honestly think it is anyone of them in particular, but
+            taken together they represent the cuisine served during the war years for me of
+            1943-45 while serving as a member of the US 2nd Armored Division in the European
+            Campaign.
+    </p>
+    <p>
+        Strangely enough, I
         guess the one single food item that I associate with that period of time is
         (don’t laugh) … “C” rations! Why those damn things you ask? For one
         thing, they were our daily diet for many days and weeks on end prior to and once
@@ -52,12 +43,10 @@ normal">&nbsp;</b>&nbsp;&nbsp;&nbsp;<b style="mso-bidi-font-weight: normal"> </b
         Sergeant Tommy Speirs, plus my own non-conformists and rebellious ways. This
         incident occurred right after the frantic chase across northern France and our
         heralded entrance into Belgium as the first Allied troops to cross their border
-        and commence the liberation of their country on 2 September 1944.&nbsp;<o:p>
-        </o:p>
-    </font>
-</p>
-<p class="MsoNormal" style="text-indent:.5in" align="left">
-    <font face="Arial">Sergeant Speirs
+        and commence the liberation of their country on 2 September 1944.
+    </p>
+    <p>
+        Sergeant Speirs
         hailed from Picayune, Mississippi and served as the CCA radio half-track
         commander and as an Old Army man was known as a no nonsense soldier.The rest of
         his crew was comprised of Vern Evans from New Orleans, Bill Truett of Indiana
@@ -70,12 +59,10 @@ normal">&nbsp;</b>&nbsp;&nbsp;&nbsp;<b style="mso-bidi-font-weight: normal"> </b
         kitchen came up to serve a decent meal. No one that I can recall cared much for
         the can of hash in the Cs or the can of lemon powder and hardtack crackers it
         came with. It finally got to the point where we would throw them away or else
-        set them aside for when we were really hard-pressed for food, which happened.&nbsp;<o:p>
-        </o:p>
-    </font>
-</p>
-<p class="MsoNormal" style="text-indent:.5in" align="left">
-    <font face="Arial">When the division had
+        set them aside for when we were really hard-pressed for food, which happened.
+    </p>
+    <p>
+        When the division had
         out-run our supply lines we also ran out of gasoline to move the division.
         September 4, 1944 was my 22<sup>nd</sup> birthday and it found me underneath an
         apple tree in an orchard concocting a scheme to dispose of a case of hash and
@@ -93,12 +80,10 @@ normal">&nbsp;</b>&nbsp;&nbsp;&nbsp;<b style="mso-bidi-font-weight: normal"> </b
         those on the rail and the howls that were heard alerted Speirs. After viewing
         the switch rations the old Cavalry man said, “What low life horse’s ass
         would do a thing like that? I am going to kick someone’s ass if I find the
-        @#$%^&amp;* who did this!”&nbsp;<o:p>
-        </o:p>
-    </font>
-</p>
-<p class="MsoNormal" style="text-indent:.5in" align="left">
-    <font face="Arial">With common knowledge
+        @#$%^&amp;* who did this!”
+    </p>
+    <p>
+        With common knowledge
         that the whole wire crews were practical jokers, he naturally accused us. When
         Joe Elfer, our Cajun from New Orleans and one of Speirs drinking buddies, was
         questioned by Speirs, Elfer spilled his guts and said, “Tom, only a damned
@@ -106,17 +91,16 @@ normal">&nbsp;</b>&nbsp;&nbsp;&nbsp;<b style="mso-bidi-font-weight: normal"> </b
         Wisconsin, Hull from Massachusetts, Donahue from Michigan, Waldroop from
         Oklahoma and I from Wisconsin, rounding out those north of the Mason-Dixon Line.
         Because by now they knew, they all turned and looked at me with big grins and
-        guffaws.</font>
-</p>
-<p class="MsoNormal" align="left">
-    <font face="Arial">I knew the jig was up and my goose was cooked
+        guffaws.
+    </p>
+    <p>
+        I knew the jig was up and my goose was cooked
         and started getting to my feet not a moment too soon as Speirs was headed my way
         with his eyes blazing. Back in those days I could outrun any sergeant and he
-        soon gave up the foot race in the orchard.<span
-            style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></font>
-</p>
-<p class="MsoNormal" style="text-indent:.5in" align="left">
-    <font face="Arial">Later when cooler
+        soon gave up the foot race in the orchard.
+    </p>
+    <p>
+        Later when cooler
         heads prevailed and we all shared a good laugh, I had to swap him a fresh
         unopened case of Cs that he personally inspected for the case of “duds” that
         I tried to palm off on him. He promised to keep a close watch on me thereafter.
@@ -125,32 +109,14 @@ normal">&nbsp;</b>&nbsp;&nbsp;&nbsp;<b style="mso-bidi-font-weight: normal"> </b
         the two cases. Even today, I find pleasure in rehashing this old story. Now tell
         the truth, before you complain too loudly, wouldn’t you rather hear stories
         about coping with the old field rations instead of all the old stories I had to
-        hear about the guys cleaning out the stables at Fort Riley in the prewar days?<i
-            style="mso-bidi-font-style:normal"><span style="font-size:10.0pt">&nbsp;<o:p>
-                </o:p>
-            </span></i></font>
-</p>
-<p class="MsoNormal" align="center" style="text-align:center"><i style="mso-bidi-font-style:
-normal"><span style="font-size:10.0pt">
-            <font face="Arial">A condensed and edited version appeared
-                in Issue #1, 1986, of the 2<sup>nd</sup> Armored Division Association Bulletin<o:p>
-                </o:p>
-            </font>
-        </span></i></p>
-<p class="MsoNormal" align="center" style="text-align:center"><i style="mso-bidi-font-style:
-normal"><span style="font-size:10.0pt">
-            <font face="Arial">.Publication or reproduction, in part or
-                whole, is prohibited without written permission from the author, Don R. Marsh.
-                All rights remain the sole property of <o:p>
-                </o:p>
-            </font>
-        </span></i></p>
-<p class="MsoNormal" align="center" style="text-align:center"><i style="mso-bidi-font-style:
-normal"><span style="font-size:10.0pt">
-            <font face="Arial">The Marsh Family Trust.<o:p>
-            </font>
-        </span></i></p>
-        <!-- #EndEditable "content" -->
+        hear about the guys cleaning out the stables at Fort Riley in the prewar days?
+    </p>
+    <p class="center"><i>A condensed and edited version appeared in Issue #1, 1986, of the 2<sup>nd</sup> Armored
+            Division Association Bulletin.</i></p>
+    <p class="center"><i>Publication or reproduction, in part or whole, is prohibited without written permission from
+            the author, Don R. Marsh. All rights remain the sole property of</i></p>
+    <p class="center"><i>The Marsh Family Trust.</i></p>
+    <!-- #EndEditable "content" -->
 </div>
 <!-- End Content -->
 <?php

@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h1 class="center">THE FACE OF THE ENEMY</h1>
     <p  class="center"><b><i>By Don R. Marsh</i></b></p>
     <p>28 July 1944</p>

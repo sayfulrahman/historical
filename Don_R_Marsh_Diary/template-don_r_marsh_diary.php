@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h2><b>Don R. Marsh: Introduction</b></h2>
     <p>On September 4, 1942 I had turned twenty years of age. Although it would be at
         least one year or more before I would be eligible to receive a Selective

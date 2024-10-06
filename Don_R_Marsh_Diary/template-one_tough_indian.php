@@ -12,6 +12,7 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
+    <?php the_content(); ?>
     <h1 class="center"><b>ONE TOUGH INDIAN</b></h1>
     <p class="center"><b><i>By Don R. Marsh</i></b></p>
     <p>He came to us at Combat Command “A” as a replacement

@@ -12,17 +12,11 @@ get_header();
 <!-- Begin Content -->
 <div class="content">
     <!-- #BeginEditable "content" -->
-<p><b>
-        <font face="Arial">DIARY ENTRY #24</font>
-    </b></p>
-<h1 align="center">
-    <font face="Arial">MY STORY BEHIND THE BIOGRAPHY OF GENERAL ROSE</font>
-</h1>
-<p align="center"><i><b>
-            <font face="Arial">By Don R. Marsh</font>
-        </b></i></p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; It was early October of 1995 when I received Issue #2 of
+    <?php the_content(); ?>
+    <p><b>DIARY ENTRY #24</b></p>
+    <h1 class="center">MY STORY BEHIND THE BIOGRAPHY OF GENERAL ROSE</h1>
+    <p class="center"><i><b>By Don R. Marsh</b></i></p>
+    <p>It was early October of 1995 when I received Issue #2 of
         the 2nd Armored Division Association Bulletin. While briefly scanning for names
         of fellow veteran friends of mine, there it was on the top of page 6. Something
         immediately drew my attention to it, with the headline, &quot;Can you, will you
@@ -39,10 +33,9 @@ get_header();
         officer.&quot; So I assumed that meant that he had done some previous homework -
         little did I know at that time that he had acquired far more data about the Rose
         family history than I knew! It was Rose's military data he was seeking. I would
-        learn all this later.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; Steve Ossad had written in his request for information,
+        learn all this later.
+    </p>
+    <p>Steve Ossad had written in his request for information,
         &quot;I would be appreciative of any help you can offer.&quot; So being the
         &quot;Good Samaritan&quot; that I am and willing to offer whatever support I
         could give, I replied by letter on October 10, 1995, (ironically October 10th is
@@ -50,18 +43,16 @@ get_header();
         1945, my friend, Glenn H. Shaunce). I mentioned that I had served under General
         Rose's Headquarters Combat Command &quot;A&quot; of the Second Armored Division
         in the Invasion of Normandy, France, June 1944 and the Breakout at St. Lo, in
-        Operation Cobra, July 1944.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; Steve recognized my name from an article previously
+        Operation Cobra, July 1944.
+    </p>
+    <p>Steve recognized my name from an article previously
         published in the Army's Armor Magazine, March-April 1991,The Triumph and Tragedy
         of Major General Maurice Rose, written by Ralph C. Greene, MD. I had exchanged
         correspondence with Dr. Greene regarding Rose's Combat Command &quot;A&quot; at
         the Invasion Beachhead at Carentan, France, on 13 June 1944. Steve immediately
-        replied and pressed me for details based on the information published.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; After a cautious slow start, he was still a stranger to
+        replied and pressed me for details based on the information published.
+    </p>
+    <p>After a cautious slow start, he was still a stranger to
         me, the flow of letters and telephone calls rapidly became a daily occurrence
         and in time they soon led to our sending emails and computerized copies of
         documents. We were two amateur historians with the same goal - willing to
@@ -77,10 +68,9 @@ get_header();
         complete computer set-up. This enabled me to send emails and letters to contacts
         in the USA, Belgium, Holland and most importantly, made it possible to locate
         and interview German veterans, including the German Panzer men from the unit
-        that ambushed General Rose &quot;that night.&quot;</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; Destiny stepped in to arrange this juxtaposition; in
+        that ambushed General Rose &quot;that night.&quot;
+    </p>
+    <p>Destiny stepped in to arrange this juxtaposition; in
         effect we were two complete strangers who might be rightly described as total
         &quot;opposites.&quot; He is a younger man in his mid-fifties; today, I am 80
         years old. He has not served a single day in the military and I am a retired
@@ -93,10 +83,9 @@ get_header();
         have met but three times. Communication was not a problem, as I became a part of
         his extended family and he a part of mine. We have one great thing in common
         however, a strong mutual desire to tell this story of a true military legend we
-        both admired, Major General Maurice Rose.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; From the inception, obtaining the full story has taken
+        both admired, Major General Maurice Rose.
+    </p>
+    <p>From the inception, obtaining the full story has taken
         years of time to materialize due to the seemingly impossible and difficult
         challenge of penetrating the layers of military bureaucracy, solely by
         correspondence through &quot;proper channels&quot;, to secure the vital records
@@ -109,10 +98,9 @@ get_header();
         on file in the archives -- someplace. The Army repeatedly declined to help in
         finding the location of the missing crucial files. Without the conclusive proof
         in these two files, one domestic and the other ETO (European Theater of
-        Operations), we didn't have a case or an authoritative story with credentials.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; Finally, with our persistence and the assistance of two of
+        Operations), we didn't have a case or an authoritative story with credentials.
+    </p>
+    <p>Finally, with our persistence and the assistance of two of
         our most powerful California representatives, Christopher Cox and Dianne
         Feinstein, we were able to pry loose the once classified essential critical
         files to thoroughly review the investigation reports. More importantly, we were
@@ -133,10 +121,9 @@ get_header();
         untimely death. We described the painful Rose family details of the days
         following the shooting, including his burial at the US Military Cemetery at
         Margraten in The Netherlands, then the aftermath and tragic family
-        disintegration that followed.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; In the end, the manuscript was crafted in a scholarly
+        disintegration that followed.
+    </p>
+    <p>In the end, the manuscript was crafted in a scholarly
         fashion and submitted to selected military book publishers to no avail. Editors
         would read the synopsis and write back, &quot;Although well written, the story
         is about an unknown general.&quot; Unknown perhaps to the civilians without
@@ -148,10 +135,9 @@ get_header();
         after more than two dozen rejections by various publishers finally placed the
         work with Cooper Square Press who will publish our book titled, <b><i>&quot;Major
                 General Maurice Rose: World War II's Greatest Forgotten Commander&quot;</i></b>
-        in the spring of 2003.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; The subject of creating a title for our work presented
+        in the spring of 2003.
+    </p>
+    <p>The subject of creating a title for our work presented
         another problem. Steve first suggested using &quot;The Extinguished Flame of MG
         Maurice Rose&quot;; whereas I thought a title with a punch would be better and
         suggested using &quot;In The Heat of Battle: The Murder of The Commanding
@@ -159,41 +145,36 @@ get_header();
         Rabbi's Son To a Military Legend: Major General Maurice Rose.&quot; But, once we
         sold the publishing rights to Cooper Square Press, they settled that with their
         revised choice of the title. In the end, after the book is finally available to
-        the public, Maurice Rose will no longer be the Forgotten Commander.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; In addition to meeting and exchanging correspondence with
+        the public, Maurice Rose will no longer be the Forgotten Commander.
+    </p>
+    <p>In addition to meeting and exchanging correspondence with
         so many interesting people from all walks of life and from all parts of the
         world while doing research for this manuscript, I received a deep sense of
         gratification from two key experiences. One from the human-interest standpoint
         was finding and uniting General Rose's two sons (half-brothers) from the
         general's two marriages. These two men, now 76 and 61 years of age, had never
         met nor spoken to each other in their lifetimes until our research connected
-        them and made it possible.</font>
-</p>
-<p>
-    <font face="Arial">&nbsp;&nbsp;&nbsp; The other experience has been the pleasure of watching my
+        them and made it possible.
+    </p>
+    <p>The other experience has been the pleasure of watching my
         young friend, partner and coauthor, Steven L. Ossad, launch his professional
         career as a military historian and successful author with this biography of
         Major General Maurice Rose, knowing this will undoubtedly serve as the linchpin
-        of his future in writing military history.</font>
-</p>
-<p align="center">
-    <font face="Arial">&nbsp;&nbsp;&nbsp; Along the way through this long journey of
+        of his future in writing military history.
+    </p>
+    <p class="center">Along the way through this long journey of
         life, now in my twilight years, I give thanks that I made a great friend and
         close confidant for life, Steven L. Ossad - without whom, this story could not
-        have been possibly told.</font>
-</p>
-<p align="center">
-    <font face="Arial"><b><i>Bershert</i></b> -- to borrow a Jewish expression that
-        means, &quot;It was meant to be.&quot;</font>
-</p>
-<p align="center"><i>
-        <font face="Arial">Publication or reproduction, in part or whole, is
+        have been possibly told.
+    </p>
+    <p class="center"><b><i>Bershert</i></b> -- to borrow a Jewish expression that
+        means, &quot;It was meant to be.&quot;</p>
+    <p class="center"><i>
+            Publication or reproduction, in part or whole, is
             prohibited without written authorization from the author, Don R. Marsh. All
-            rights remain the sole property of The Marsh Family Trust. 9/11/2002</font>
-    </i></p>
-<!-- #EndEditable "content" -->
+            rights remain the sole property of The Marsh Family Trust. 9/11/2002
+        </i></p>
+    <!-- #EndEditable "content" -->
 </div>
 <!-- End Content -->
 <?php
